@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Petrus Nguyễn Thái Học
 
-<code><img  src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></code>
-<code><img  src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='140"'><code>
-<code><img  src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='150"'></code>
+<code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></code>
+<code><img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='140"'><code>
+<code><img src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='150"'></code>
 
 <!--
 **hoc081098/hoc081098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
