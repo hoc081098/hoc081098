@@ -7,7 +7,7 @@
 [![Android](https://img.shields.io/badge/-Android-green)](https://img.shields.io/badge/-Android-green)
 
 <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-<img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='98"'>
+<img src='https://www.kotlindevelopment.com/assets/img/kotlin-development-logo.svg?v=bcf07ce317' width='90"'>
 <img src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='100"'>
 <img src='https://github.com/hoc081098/hoc081098/raw/master/jetpack2.png' width='100"'>
 
