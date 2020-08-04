@@ -16,6 +16,9 @@
   <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
 </p>
 
+[![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hoc081098/hoc081098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
