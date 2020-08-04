@@ -31,11 +31,11 @@
 -->
 
 <a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&theme=vue" height="150"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&theme=vue" height="148"/>
 </a>
 
 <a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue" height="148"/>
 </a>
 
 <!--
