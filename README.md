@@ -11,8 +11,11 @@
 <img src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='100"'>
 <img src='https://github.com/hoc081098/hoc081098/raw/master/jetpack2.png' width='100"'>
 
-  Visitor count
-  <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
+  <p align="center">
+    Visitor count
+   <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
+  </p>
+  
 </code>
 
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
