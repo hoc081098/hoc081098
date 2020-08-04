@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue" height="148" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue" height="148" width="399"/>
 </a>
 
 <!--
