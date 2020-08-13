@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Petrus Nguyễn Thái Học
 
-![GitHub followers](https://img.shields.io/github/followers/hoc081098?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/hoc081098?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/hoc081098?style=social)](https://www.facebook.com/hoc081098)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hoc081098?style=social)](https://twitter.com/hoc081098)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://img.shields.io/badge/-Kotlin-orange)
 [![ReactiveX](https://img.shields.io/badge/-ReactiveX-red)](https://img.shields.io/badge/-ReactiveX-red)
 [![Android](https://img.shields.io/badge/-Android-green)](https://img.shields.io/badge/-Android-green)
