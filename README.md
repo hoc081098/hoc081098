@@ -22,8 +22,8 @@
    <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
   </p>
 
-[![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hoc081098)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=synthwave&layout=compact)](https://github.com/hoc081098)
+[![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true)](https://github.com/hoc081098)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact)](https://github.com/hoc081098)
 
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&theme=vue)](https://github.com/hoc081098/WeatherApp_MVI_sample)
