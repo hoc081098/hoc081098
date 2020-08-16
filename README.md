@@ -1,4 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/hoc081098?style=social)](https://www.facebook.com/hoc081098)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](ttps://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hoc081098)
