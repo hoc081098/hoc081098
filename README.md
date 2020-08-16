@@ -1,9 +1,9 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](ttps://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hoc081098)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-orange)](https://img.shields.io/badge/-Kotlin-orange)
-[![ReactiveX](https://img.shields.io/badge/-ReactiveX-red)](https://img.shields.io/badge/-ReactiveX-red)
-[![Android](https://img.shields.io/badge/-Android-green)](https://img.shields.io/badge/-Android-green)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")]()
+[![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)]()
 
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
