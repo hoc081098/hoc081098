@@ -24,6 +24,14 @@
    <code>Visitor count</code>
    <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
   </p>
+  
+ - https://pub.dev/packages/rx_shared_preferences - Reactive shared preferences for `Flutter`.
+ - https://pub.dev/packages/rx_redux - Redux implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
+ - https://pub.dev/packages/disposebag, https://pub.dev/packages/flutter_disposebag - Cancelling `Stream`s and closing `Sink`s easily for `Dart` & `Flutter`.
+ - https://pub.dev/packages/sqlbrite - Reactive stream wrapper around `sqflite` for `Flutter` inspired by sqlbrite.
+ - https://pub.dev/packages/stream_loader - Loading content asynchronously with Dart stream.
+ - https://cocoapods.org/pods/PhDownloader - Simple, reactive and functional downloader for iOS Swift with the power of `RxSwift`, `RxAlamofire`.
+ - https://jitpack.io/#hoc081098/ViewBindingDelegate - Simple one-liner `ViewBinding` in `Fragment`s and `Activitie`s with Kotlin Property Delegates.
 
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/hoc081098)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800)](https://github.com/hoc081098)
