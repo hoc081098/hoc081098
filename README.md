@@ -25,7 +25,7 @@
    <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
   </p>
   
- - [RxDart](https://github.com/ReactiveX/rxdart) contributors: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
+ - [RxDart](https://github.com/ReactiveX/rxdart) contributor: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
  - https://pub.dev/packages/rx_shared_preferences - Reactive shared preferences for `Flutter`.
  - https://pub.dev/packages/rx_redux - Redux implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
  - https://pub.dev/packages/disposebag, https://pub.dev/packages/flutter_disposebag - Cancelling `Stream`s and closing `Sink`s easily for `Dart` & `Flutter`.
