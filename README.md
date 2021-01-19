@@ -27,7 +27,10 @@
    <br>
    <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-    </a>
+   </a>
+    
+   <br>
+   <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
   </p>
   
  - [RxDart](https://github.com/ReactiveX/rxdart) contributor: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
