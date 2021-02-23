@@ -33,6 +33,10 @@
    <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
   </p>
   
+  ### Resume
+  
+  https://www.topcv.vn/xem-cv/20692d8561bf1729a0b42831e0f713ff
+  
   ### Libraries and packages
   
  - [RxDart](https://github.com/ReactiveX/rxdart) contributor: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
