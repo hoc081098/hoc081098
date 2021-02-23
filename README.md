@@ -37,6 +37,11 @@
   
   https://www.topcv.vn/xem-cv/20692d8561bf1729a0b42831e0f713ff
   
+  ### Blog
+  
+  - [Medium](https://hoc081098.medium.com/).
+  - [Facebook](https://www.facebook.com/kotlinandroid081098).
+  
   ### Libraries and packages
   
  - [RxDart](https://github.com/ReactiveX/rxdart) contributor: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
