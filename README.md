@@ -38,12 +38,9 @@
    </a>
   </p>
   
-  ### Resume
+  ### Resume and blog
   
-  https://www.topcv.vn/xem-cv/20692d8561bf1729a0b42831e0f713ff
-  
-  ### Blog
-  
+  - [My CV](https://www.topcv.vn/xem-cv/20692d8561bf1729a0b42831e0f713ff).
   - [Medium](https://hoc081098.medium.com/).
   - [Facebook](https://www.facebook.com/kotlinandroid081098).
   
