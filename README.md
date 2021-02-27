@@ -61,11 +61,11 @@
  - **rx_redux** (https://pub.dev/packages/rx_redux, https://github.com/hoc081098/rx_redux) - `Redux` implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
  - **disposebag** (https://pub.dev/packages/disposebag, https://github.com/hoc081098/disposebag) - A package helps to cancel `StreamSubscription`s and close `Sink`s.
  - **flutter_disposebag** (https://pub.dev/packages/flutter_disposebag, https://github.com/Flutter-Dart-Open-Source/flutter_disposebag) - Automatically disposes `StreamSubscription`s and closes `Sink`s when disposing `State<T>`.
- - https://pub.dev/packages/sqlbrite - Reactive stream wrapper around `sqflite` for `Flutter` inspired by sqlbrite.
- - https://pub.dev/packages/stream_loader - Loading content asynchronously with Dart stream.
- - https://pub.dev/packages/rxdart_ext - Some extension methods and classes built on top of `RxDart`.
- - https://pub.dev/packages/rx_storage - Reactive storage for `Dart`/`Flutter`. `RxDart` Storage for `Dart`/`Flutter`.
- - https://pub.dev/packages/listenable_stream - Convert `Listenable` (eg. `ChangeNotifier`), `ValueListenable`(eg. `ValueNotifier`) to `Stream`/`ValueStream`.
+ - **sqlbrite** (https://pub.dev/packages/sqlbrite, https://github.com/hoc081098/sqlbrite) - Reactive stream wrapper around `sqflite` for `Flutter` inspired by `sqlbrite`.
+ - **stream_loader** (https://pub.dev/packages/stream_loader, https://github.com/hoc081098/stream_loader) - Loading content asynchronously with Dart stream.
+ - **rxdart_ext** (https://pub.dev/packages/rxdart_ext, https://github.com/hoc081098/rxdart_ext) - Some extension methods and classes built on top of `RxDart`.
+ - **rx_storage** (https://pub.dev/packages/rx_storage, https://github.com/Flutter-Dart-Open-Source/rx_storage) - Reactive storage for `Dart`/`Flutter`. `RxDart` Storage for `Dart`/`Flutter`.
+ - **listenable_stream** (https://pub.dev/packages/listenable_stream, https://github.com/Flutter-Dart-Open-Source/listenable_stream) - Convert `Listenable` (eg. `ChangeNotifier`), `ValueListenable`(eg. `ValueNotifier`) to `Stream`/`ValueStream`.
 
 ### Github Stats
 
