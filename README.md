@@ -59,8 +59,7 @@
   
   #### Dart/Flutter
 
- - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - RxDart is an implementation of the popular reactiveX api for asynchronous
-  programming, leveraging the native Dart Streams api.
+ - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart` `Stream`s api.
  - **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
  - **rx_redux** (https://pub.dev/packages/rx_redux, https://github.com/hoc081098/rx_redux) - `Redux` implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
  - **disposebag** (https://pub.dev/packages/disposebag, https://github.com/hoc081098/disposebag) - A package helps to cancel `StreamSubscription`s and close `Sink`s.
