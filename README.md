@@ -1,3 +1,5 @@
+## A mobile developer (Android, iOS, Flutter), currently working as a Flutter developer
+
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
@@ -14,6 +16,8 @@
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
+
+### Hello visitors
 
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
@@ -32,9 +36,6 @@
    <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
    </a>
-    
-   <br>
-   <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
   </p>
   
   ### Resume
@@ -46,21 +47,33 @@
   - [Medium](https://hoc081098.medium.com/).
   - [Facebook](https://www.facebook.com/kotlinandroid081098).
   
-  ### Libraries and packages
+  ### Libraries and packages (Android/Kotlin, iOS/Swift and Flutter/Dart)
   
- - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor: https://github.com/ReactiveX/rxdart/commits?author=hoc081098
- - https://pub.dev/packages/rx_shared_preferences - Reactive shared preferences for `Flutter`.
- - https://pub.dev/packages/rx_redux - `Redux` implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
- - https://pub.dev/packages/disposebag, https://pub.dev/packages/flutter_disposebag - Cancelling `Stream`s and closing `Sink`s easily for `Dart` & `Flutter`.
+  #### Android/Kotlin
+  
+   - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragment`s and `Activitie`s with Kotlin Property Delegates.
+
+  #### iOS/Swift
+  
+   - **PhDownloader** (https://cocoapods.org/pods/PhDownloader, https://github.com/hoc081098/PhDownloader) - Simple, reactive and functional downloader for `iOS Swift` with the power of `RxSwift`, `RxAlamofire`.
+  
+  #### Dart/Flutter
+
+ - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - RxDart is an implementation of the popular reactiveX api for asynchronous
+  programming, leveraging the native Dart Streams api.
+ - **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
+ - **rx_redux** (https://pub.dev/packages/rx_redux, https://github.com/hoc081098/rx_redux) - `Redux` implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
+ - **disposebag** (https://pub.dev/packages/disposebag, https://github.com/hoc081098/disposebag) - A package helps to cancel `StreamSubscription`s and close `Sink`s.
+ - **flutter_disposebag** (https://pub.dev/packages/flutter_disposebag, https://github.com/Flutter-Dart-Open-Source/flutter_disposebag) - Automatically disposes `StreamSubscription`s and closes `Sink`s when disposing `State<T>`.
  - https://pub.dev/packages/sqlbrite - Reactive stream wrapper around `sqflite` for `Flutter` inspired by sqlbrite.
  - https://pub.dev/packages/stream_loader - Loading content asynchronously with Dart stream.
- - https://cocoapods.org/pods/PhDownloader https://github.com/hoc081098/PhDownloader - Simple, reactive and functional downloader for `iOS Swift` with the power of `RxSwift`, `RxAlamofire`.
- - https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate - Simple one-liner `ViewBinding` in `Fragment`s and `Activitie`s with Kotlin Property Delegates.
  - https://pub.dev/packages/rxdart_ext - Some extension methods and classes built on top of `RxDart`.
  - https://pub.dev/packages/rx_storage - Reactive storage for `Dart`/`Flutter`. `RxDart` Storage for `Dart`/`Flutter`.
  - https://pub.dev/packages/listenable_stream - Convert `Listenable` (eg. `ChangeNotifier`), `ValueListenable`(eg. `ValueNotifier`) to `Stream`/`ValueStream`.
 
 ### Github Stats
+
+**Github profile summary** <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
 
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800)](https://github.com/hoc081098)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoc081098)
