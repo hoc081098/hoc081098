@@ -51,7 +51,7 @@
   
   #### Android/Kotlin
   
-   - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragment`s and `Activitie`s with Kotlin Property Delegates.
+   - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
 
   #### iOS/Swift
   
@@ -59,8 +59,8 @@
   
   #### Dart/Flutter
 
- - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart` `Stream`s api.
- - **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
+ - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart Streams` API.
+ - **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences, https://github.com/hoc081098/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
  - **rx_redux** (https://pub.dev/packages/rx_redux, https://github.com/hoc081098/rx_redux) - `Redux` implementation based on `Dart Stream`, with the power of `RxDart`. Reactive redux store for `Dart` & `Flutter`.
  - **disposebag** (https://pub.dev/packages/disposebag, https://github.com/hoc081098/disposebag) - A package helps to cancel `StreamSubscription`s and close `Sink`s.
  - **flutter_disposebag** (https://pub.dev/packages/flutter_disposebag, https://github.com/Flutter-Dart-Open-Source/flutter_disposebag) - Automatically disposes `StreamSubscription`s and closes `Sink`s when disposing `State<T>`.
@@ -84,6 +84,10 @@
 -->
 
 ### Open Source Projects
+
+#### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
+
+#### More repositories at [Flutter-Dart-Open-Source](https://github.com/Flutter-Dart-Open-Source)
 
 <a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&bg_color=ffffff" height="148" width="399"/>
