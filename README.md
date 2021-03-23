@@ -41,7 +41,7 @@
   
   ### Resume and blog
   
-  - [My CV](https://www.topcv.vn/xem-cv/20692d8561bf1729a0b42831e0f713ff).
+  - [My CV](https://github.com/hoc081098/hoc081098/blob/master/Nguyen-Thai-Hoc-TopCV.vn-180321.113822.pdf).
   - [Medium](https://hoc081098.medium.com/).
   - [Facebook](https://www.facebook.com/kotlinandroid081098).
   
