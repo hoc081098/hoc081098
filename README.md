@@ -55,7 +55,7 @@
   
    - **PhDownloader** (https://cocoapods.org/pods/PhDownloader, https://github.com/hoc081098/PhDownloader) - Simple, reactive and functional downloader for `iOS Swift` with the power of `RxSwift`, `RxAlamofire`.
   
-  #### Dart/Flutter
+  #### Dart/Flutter: https://pub.dev/packages?q=email%3Ahoc081098%40gmail.com
 
  - [**RxDart**](https://github.com/ReactiveX/rxdart) contributor https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart Streams` API.
  - **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences, https://github.com/hoc081098/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
