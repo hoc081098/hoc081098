@@ -67,6 +67,11 @@
    8. **rxdart_ext** (https://pub.dev/packages/rxdart_ext, https://github.com/hoc081098/rxdart_ext) - Some extension methods and classes built on top of `RxDart`.
    9. **rx_storage** (https://pub.dev/packages/rx_storage, https://github.com/Flutter-Dart-Open-Source/rx_storage) - Reactive storage for `Dart`/`Flutter`. `RxDart` Storage for `Dart`/`Flutter`.
    10. **listenable_stream** (https://pub.dev/packages/listenable_stream, https://github.com/Flutter-Dart-Open-Source/listenable_stream) - Convert `Listenable` (eg. `ChangeNotifier`), `ValueListenable`(eg. `ValueNotifier`) to `Stream`/`ValueStream`.
+   11. **distinct_value_connectable_stream** (https://pub.dev/packages/distinct_value_connectable_stream, https://github.com/hoc081098/distinct_value_connectable_stream) - Distinct value connectable stream for `RxDart`, useful for `BLoC` pattern.
+   12. **did_change_dependencies** (https://pub.dev/packages/did_change_dependencies, https://github.com/hoc081098/did_change_dependencies) - Return a `Stream` that emits `null` and done event when `didChangeDependencies` is called for the first time.
+   13. **dart_either** (https://pub.dev/packages/dart_either, https://github.com/hoc081098/dart_either) - Either monad for Dart, including monad comprehensions.
+   14. **flutter_bloc_pattern** (https://pub.dev/packages/flutter_bloc_pattern, https://github.com/hoc081098/flutter_bloc_pattern) - Base class, `BLoC` provider and `rxdart` builder for `BLoC` pattern in `Flutter`.
+   15. **flutter_provider** (https://pub.dev/packages/flutter_provider, https://github.com/hoc081098/flutter_provider) - Flutter generic provider using InheritedWidget. An helper to easily exposes a value using InheritedWidget without having to write one.
 
 ### Github Stats
 
