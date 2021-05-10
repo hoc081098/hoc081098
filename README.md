@@ -1,4 +1,4 @@
-## A mobile developer (Android, iOS, Flutter), currently working as a Flutter developer
+## A self-taught mobile developer (Android, iOS, Flutter), currently working as a Flutter developer
 
 ### Contact me
                   
