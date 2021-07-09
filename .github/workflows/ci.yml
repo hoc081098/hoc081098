@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
+  schedule:
+    - cron: "0 17 * * *" # Runs at 17:00 UTC every day.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: hoc081098
+          svg_out_path: dist/github-contribution-grid-snake.svg
