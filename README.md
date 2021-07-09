@@ -89,6 +89,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue)](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
 -->
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ### Open Source Projects
 
 #### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
