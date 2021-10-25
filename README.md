@@ -1,4 +1,4 @@
-## A self-taught mobile developer (Android, iOS, Flutter), currently unemployed 😢😢😢😢😢😢😢😢😢
+## A self-taught mobile developer (Android, iOS, Flutter)
 
 ### Contact me
                   
