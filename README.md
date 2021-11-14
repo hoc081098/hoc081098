@@ -74,6 +74,8 @@
    14. **flutter_bloc_pattern** (https://pub.dev/packages/flutter_bloc_pattern, https://github.com/hoc081098/flutter_bloc_pattern) - Base class, `BLoC` provider and `rxdart` builder for `BLoC` pattern in `Flutter`.
    15. **flutter_provider** (https://pub.dev/packages/flutter_provider, https://github.com/hoc081098/flutter_provider) - Flutter generic provider using InheritedWidget. An helper to easily exposes a value using InheritedWidget without having to write one.
 
+
+
 ### Open Source Projects
 
 #### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
@@ -98,14 +100,24 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=rx_shared_preferences&bg_color=ffffff" height="148" width="399"/>
 </a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
-### Github Stats
 
-**Github profile summary** <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
+### Github Stats <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
-
 
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoc081098)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoc081098)
@@ -119,4 +131,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
 
