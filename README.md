@@ -115,7 +115,7 @@
 
 
 
-### Github Stats <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
+### Github Stats: <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
 
