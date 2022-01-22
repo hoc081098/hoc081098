@@ -1,4 +1,5 @@
 ## A self-taught mobile developer (Android, iOS, Flutter)
+## I am available for Freelance work. [Contact me](#contact-me)
 
 ### Contact me
                   
