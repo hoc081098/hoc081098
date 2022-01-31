@@ -1,6 +1,8 @@
 # I am available for _Freelance work_. [Contact me](#contact-me)
 ## A self-taught mobile developer (Android, iOS, Flutter)
 
+## _Happy Lunar New Year 2022 🎉🎉🎉_
+
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
