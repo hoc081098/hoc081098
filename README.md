@@ -1,4 +1,9 @@
 # I am available for _Freelance work_. [Contact me](#contact-me)
+
+Your business can now hire me (**hoc081098**) for small **Android Kotlin** and **Flutter** side projects.
+
+[Contact me](#contact-me) (`hoc081098@gmail.com`) for details.
+
 ## A self-taught mobile developer (Android, iOS, Flutter)
 
 ### Contact me
