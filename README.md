@@ -6,10 +6,10 @@ Your business can now hire me (**hoc081098**) for small **Android Kotlin** and *
 
 ## A self-taught mobile developer (Android, iOS, Flutter)
 
-### Buy me a coffee
+## Buy me a coffee
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hoc081098)
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/hoc081098)
 
 
 ### Contact me
