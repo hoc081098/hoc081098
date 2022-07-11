@@ -4,7 +4,7 @@ Your business can now hire me (**hoc081098**) for small **Android Kotlin** and *
 
 [Contact me](#contact-me) (`hoc081098@gmail.com`) for details.
 
-## A self-taught mobile developer (Android, iOS, Flutter)
+## A self-taught mobile developer (Android, iOS, Flutter) with 3+ years of experience has a strong knowlegede of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...)`, Kotlin/Android, Dart/Flutter, iOS/Swift.
 
 ## Buy me a coffee
 Liked some of my work? Buy me a coffee (or more likely a beer)
