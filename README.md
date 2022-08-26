@@ -58,6 +58,14 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
   - [Medium](https://hoc081098.medium.com/).
   - [Facebook](https://www.facebook.com/kotlinandroid081098).
   
+  ### My apps
+  
+  #### GPS speedometer Track distance
+  
+  [<img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="You can install the production app via Get it on Google Play" width="256px">](https://play.google.com/store/apps/details?id=com.mobileappsdev98.gpsspeedometer.distancemeter.speedtracker)
+  
+  GPS speedometer can easily track / measure your speed (in km/h or m/s), your distance (in km or m), your time, your current location and show your location in map, with beautiful route. Motorcycle GPS Speedometer app will measure your traveling speed and when speed exceed limit alarm will start warning alarm with sound and vibration. Distance tracking app supports different speed units like kilometer per hour (km/h), meter per second (m/s) and ...
+  
   ### Libraries and packages (Android/Kotlin, iOS/Swift and Flutter/Dart)
   
   #### Android/Kotlin
