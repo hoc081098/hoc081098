@@ -116,6 +116,13 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 [![hoc0810198's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <a href="https://commits.top/vietnam.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+  <a href="https://commits.top/germany_private.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+
 ### Open Source Projects
 
 #### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
