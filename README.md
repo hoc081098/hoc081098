@@ -123,6 +123,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
 
+
+<p align="center">
+      <img src="gitartwork.svg" />
+  </p>
+  
+
 ### Open Source Projects
 
 #### More repositories at [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source)
