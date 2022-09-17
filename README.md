@@ -111,9 +111,17 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue)](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
 -->
 
+----
+
 <p align="center">
 <img src="https://wakatime.com/share/@hoc081098/0034b2b3-5a17-448f-8e2f-4db27bc6dc07.svg" width=700 />
 </p>
+
+<p align="center">
+<img src="https://wakatime.com/share/@hoc081098/03e708e0-d845-4d53-9808-61265bf883b9.svg" />
+</p>
+
+----
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
 
