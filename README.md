@@ -114,6 +114,10 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 ----
 
 <p align="center">
+  <img src="https://wakatime.com/share/@hoc081098/19b01a7d-027e-4423-8bbd-f1471b0fd757.svg" width=700/>
+</p>
+
+<p align="center">
 <img src="https://wakatime.com/share/@hoc081098/0034b2b3-5a17-448f-8e2f-4db27bc6dc07.svg" width=700 />
 </p>
 
