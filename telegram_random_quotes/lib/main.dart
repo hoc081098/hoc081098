@@ -17,9 +17,6 @@ void main() async {
     exit(1);
   }
 
-  print('chatIds: $chatIds');
-  print('botToken: $botToken');
-
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
