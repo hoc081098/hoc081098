@@ -1,18 +1,24 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: hoc081098
-            # Text on contribution graph 
-            text: HOC081098
-       - uses: jasineri/simple-push-action@v1
+name: gitartwork from a contribution graph
+on:
+  push:
+  schedule:
+    - cron: '* */24 * * *'
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: hoc081098
+          # Text on contribution graph
+          text: HOC081098
+      - uses: stefanzweifel/git-auto-commit-action@v4.14.1
+        with:
+          commit_message: Update action output
+          file_pattern: gitartwork.svg
+          commit_user_name: hoc081098
+          commit_user_email: hoc081098@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: Petrus Nguyễn Thái Học <hoc081098@gmail.com> # defaults to author of the commit that triggered the run
