@@ -1,0 +1,21 @@
+name: telegram_random_quotes
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  http_client_hoc081098:
+  http: ^0.13.5
+  rxdart_ext: ^0.2.5
+
+dev_dependencies:
+  lints: ^2.0.0
+
+dependency_overrides:
+  http_client_hoc081098:
+    git:
+      url: https://github.com/hoc081098/http_client_hoc081098.git
+      ref: e5b9d29d216bee0601783dace15850170dcbeb94

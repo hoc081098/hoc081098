@@ -1,0 +1,35 @@
+name: Random quote
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs at 02:00 UTC every day.
+  workflow_dispatch:
+
+jobs:
+
+  random-quote:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ./telegram_random_quotes
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1.3
+        with:
+          sdk: stable
+
+      - name: Print Dart version
+        run: dart --version
+
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Run
+        run: dart run lib/main.dart
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
