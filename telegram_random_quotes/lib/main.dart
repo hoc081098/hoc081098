@@ -20,7 +20,7 @@ void main() async {
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
-      level: SimpleLogLevel.none,
+      level: SimpleLogLevel.basic,
     ),
   );
 
@@ -71,28 +71,27 @@ Single<void> send({
   required Quote quote,
   required String chatId,
   required String botToken,
-}) {
-  return useCancellationToken((cancelToken) {
-    final uri = Uri.https(
-      'api.telegram.org',
-      '/bot$botToken/sendMessage',
-      {
-        'chat_id': chatId,
-        'text': '''
+}) =>
+    useCancellationToken((cancelToken) {
+      final uri = Uri.https(
+        'api.telegram.org',
+        '/bot$botToken/sendMessage',
+        {
+          'chat_id': chatId,
+          'text': '''
 **${quote.quote}** - _${quote.author}_
-Have a nice day!
+Have a nice day ❤️!
 >> This message is send by a bot (@hoc081098).
       ''',
-        'parse_mode': 'Markdown',
-      },
-    );
+          'parse_mode': 'Markdown',
+        },
+      );
 
-    return simpleHttpClient.getJson(
-      uri,
-      cancelToken: cancelToken,
-    );
-  });
-}
+      return simpleHttpClient.getJson(
+        uri,
+        cancelToken: cancelToken,
+      );
+    });
 
 class Quote {
   final String quote;
