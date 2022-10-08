@@ -20,7 +20,7 @@ void main() async {
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
-      level: SimpleLogLevel.basic,
+      level: SimpleLogLevel.none,
     ),
   );
 
