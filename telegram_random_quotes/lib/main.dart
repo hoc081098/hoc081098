@@ -17,6 +17,9 @@ void main() async {
     exit(1);
   }
 
+  print('chatIds: $chatIds');
+  print('botToken: $botToken');
+
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
@@ -42,7 +45,7 @@ void main() async {
   //   ),
   // );
 
-  getQuote(simpleHttpClient)
+  await getQuote(simpleHttpClient)
       .exhaustMap(
         (quote) => Stream.fromIterable(chatIds).asyncExpand(
           (chatId) => send(
@@ -54,6 +57,8 @@ void main() async {
         ),
       )
       .forEach((_) {});
+
+  simpleHttpClient.close();
 }
 
 Single<Quote> getQuote(SimpleHttpClient simpleHttpClient) =>
