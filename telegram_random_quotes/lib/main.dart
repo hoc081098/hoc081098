@@ -8,7 +8,10 @@ void main() async {
   final chatIds = Platform.environment['TELEGRAM_CHAT_IDS']?.split(',');
   final botToken = Platform.environment['TELEGRAM_BOT_TOKEN'];
 
-  if (chatIds == null || chatIds.isEmpty || botToken == null) {
+  if (chatIds == null ||
+      chatIds.isEmpty ||
+      botToken == null ||
+      botToken.isEmpty) {
     print(
         'TELEGRAM_CHAT_IDS or TELEGRAM_BOT_TOKEN environment variable is not set');
     exit(1);
