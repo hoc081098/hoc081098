@@ -8,9 +8,6 @@ void main() async {
   final chatIds = Platform.environment['TELEGRAM_CHAT_IDS']?.split(',');
   final botToken = Platform.environment['TELEGRAM_BOT_TOKEN'];
 
-  print(chatIds);
-  print(botToken);
-
   if (chatIds == null ||
       chatIds.isEmpty ||
       botToken == null ||
