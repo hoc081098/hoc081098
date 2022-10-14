@@ -11,7 +11,7 @@ on:
 
 concurrency:
   group: ${{ github.head_ref || github.ref_name }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -25,6 +25,9 @@ jobs:
         with:
           github_user_name: hoc081098
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Pull
+        run: git pull origin master
 
       - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
