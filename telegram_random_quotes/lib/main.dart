@@ -21,7 +21,7 @@ void main() async {
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
-      level: /*ci ? SimpleLogLevel.basic : */SimpleLogLevel.body,
+      level: ci ? SimpleLogLevel.basic : SimpleLogLevel.body,
     ),
   );
 
@@ -36,14 +36,14 @@ void main() async {
     ],
   );
 
-  await simpleHttpClient.getJson(
-    Uri.https(
-      'api.telegram.org',
-      '/bot$botToken/getUpdates',
-    ),
-  );
-
-  print('-' * 80);
+  // await simpleHttpClient.getJson(
+  //   Uri.https(
+  //     'api.telegram.org',
+  //     '/bot$botToken/getUpdates',
+  //   ),
+  // );
+  //
+  // print('-' * 80);
 
   await getQuote(simpleHttpClient)
       .exhaustMap(
