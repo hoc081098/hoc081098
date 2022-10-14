@@ -5,6 +5,7 @@ import 'package:http/http.dart' as http;
 import 'package:rxdart_ext/rxdart_ext.dart';
 
 void main() async {
+  final ci = Platform.environment['CI'] == 'true';
   final chatIds = Platform.environment['TELEGRAM_CHAT_IDS']?.split(',');
   final botToken = Platform.environment['TELEGRAM_BOT_TOKEN'];
 
@@ -20,7 +21,7 @@ void main() async {
   final loggingInterceptor = SimpleLoggingInterceptor(
     SimpleLogger(
       loggerFunction: print,
-      level: SimpleLogLevel.none,
+      level: /*ci ? SimpleLogLevel.basic : */SimpleLogLevel.body,
     ),
   );
 
@@ -35,12 +36,14 @@ void main() async {
     ],
   );
 
-  // await simpleHttpClient.getJson(
-  //   Uri.https(
-  //     'api.telegram.org',
-  //     '/bot$botToken/getUpdates',
-  //   ),
-  // );
+  await simpleHttpClient.getJson(
+    Uri.https(
+      'api.telegram.org',
+      '/bot$botToken/getUpdates',
+    ),
+  );
+
+  print('-' * 80);
 
   await getQuote(simpleHttpClient)
       .exhaustMap(
