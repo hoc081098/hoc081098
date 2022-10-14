@@ -9,6 +9,10 @@ on:
   schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour.
 
+concurrency:
+  group: ${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
