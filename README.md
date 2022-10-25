@@ -127,7 +127,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 ----
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/hoc081098/hoc081098/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
