@@ -6,6 +6,12 @@
       <excludeFolder url="file://$MODULE_DIR$/telegram_random_quotes/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/telegram_random_quotes/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/telegram_random_quotes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/lib/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/lib/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/lib/build" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/build" />
+      <excludeFolder url="file://$MODULE_DIR$/countdown/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
