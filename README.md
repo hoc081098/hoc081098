@@ -4,12 +4,14 @@ Your business can now hire me (**hoc081098**) for small **Android Kotlin** and *
 
 [Contact me](#contact-me) (`hoc081098@gmail.com`) for details.
 
-## A self-taught mobile developer (Android, iOS, Flutter) with 3+ years of experience has a strong knowlegede of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...)`, Kotlin/Android, Dart/Flutter, iOS/Swift.
+## A self-taught mobile developer (Android, iOS, Flutter) with 3+ years of experience has a strong knowlegede of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`.
 
-## Buy me a coffee
+## [RxDart](https://github.com/ReactiveX/rxdart) maintainer 🤟
+
+<br>
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/hoc081098)
+<a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
 
 
 ### Contact me
