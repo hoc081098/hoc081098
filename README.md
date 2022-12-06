@@ -97,8 +97,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
    14. **flutter_bloc_pattern** (https://pub.dev/packages/flutter_bloc_pattern, https://github.com/hoc081098/flutter_bloc_pattern) - Base class, `BLoC` provider and `rxdart` builder for `BLoC` pattern in `Flutter`.
    15. **flutter_provider** (https://pub.dev/packages/flutter_provider, https://github.com/hoc081098/flutter_provider) - Flutter generic provider using InheritedWidget. An helper to easily exposes a value using InheritedWidget without having to write one.
    16. **cancellation_token_hoc081098** (https://pub.dev/packages/cancellation_token_hoc081098, https://github.com/hoc081098/cancellation_token_hoc081098) - Dart Cancellation Token. Inspired by CancellationToken in C#. A Dart utility package for easy async task cancellation.
-
-
+   17. **http_client_hoc081098** (https://pub.dev/packages/http_client_hoc081098, https://github.com/hoc081098/http_client_hoc081098) - Simple and powerful HTTP client for Flutter and Dart application.
 
 ### Github Stats: <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
 
@@ -133,7 +132,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-[![hoc0810198's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![hoc0810198's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
