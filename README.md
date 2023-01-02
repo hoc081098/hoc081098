@@ -1,5 +1,5 @@
 # I am available for _Freelance work_. [Contact me](#contact-me)
-# Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
+## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
 Your business can now hire me (**hoc081098**) for small **Android Kotlin** and **Flutter** side projects.
 
