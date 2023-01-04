@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:http/http.dart' as http;
 import 'package:http_client_hoc081098/http_client_hoc081098.dart';
 import 'package:rxdart_ext/rxdart_ext.dart';
+
 import 'messages.dart';
 
 void main() async {
@@ -46,7 +47,14 @@ void main() async {
           simpleHttpClient: simpleHttpClient,
         ),
       )
+      .doOnError(handleError)
       .forEach((_) {});
+}
+
+void handleError(Object e, StackTrace s) {
+  if (e is SimpleErrorResponseException) {
+    print(e.response.body);
+  }
 }
 
 Single<void> send({
