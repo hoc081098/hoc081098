@@ -46,12 +46,10 @@ packages:
   http_client_hoc081098:
     dependency: "direct main"
     description:
-      path: "."
-      ref: e5b9d29d216bee0601783dace15850170dcbeb94
-      resolved-ref: e5b9d29d216bee0601783dace15850170dcbeb94
-      url: "https://github.com/hoc081098/http_client_hoc081098.git"
-    source: git
-    version: "1.0.0-dev.0"
+      name: http_client_hoc081098
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1-dev.0"
   http_parser:
     dependency: transitive
     description:
@@ -93,7 +91,7 @@ packages:
       name: rxdart_ext
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.6"
+    version: "0.2.7"
   source_span:
     dependency: transitive
     description:

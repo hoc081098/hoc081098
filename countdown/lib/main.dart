@@ -1,8 +1,10 @@
 import 'dart:io';
+import 'dart:math';
 
 import 'package:http/http.dart' as http;
 import 'package:http_client_hoc081098/http_client_hoc081098.dart';
 import 'package:rxdart_ext/rxdart_ext.dart';
+import 'messages.dart';
 
 void main() async {
   final ci = Platform.environment['CI'] == 'true';
@@ -54,9 +56,8 @@ Single<void> send({
 }) =>
     useCancellationToken((cancelToken) {
       final now = DateTime.now();
-      final noelDay = DateTime(2022, 12, 25);
-      final newYearDay = DateTime(2023, 1, 1);
       final tetHoliday = DateTime(2023, 1, 22);
+      final message = messages[Random().nextInt(messages.length)];
 
       final uri = Uri.https(
         'api.telegram.org',
@@ -66,10 +67,10 @@ Single<void> send({
           'text': '''
 *❤️Countdown❤️*
 -------------------
-Còn ${noelDay.difference(now).inDays} ngày nữa là Noel.
-Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
 Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
 Have a nice day ❤️!
+
+$message
 -------------------
 - This message is sent by a bot (@hoc081098).
 - Source code: [countdown](https://github.com/hoc081098/hoc081098/tree/master/countdown)
