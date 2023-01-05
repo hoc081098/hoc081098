@@ -83,7 +83,7 @@ $message
 - This message is sent by a bot (@hoc081098).
 - Source code: [countdown](https://github.com/hoc081098/hoc081098/tree/master/countdown)
       ''',
-          'parse_mode': 'Markdown',
+          // 'parse_mode': 'Markdown',
         },
       );
 
