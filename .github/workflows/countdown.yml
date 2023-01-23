@@ -9,7 +9,7 @@ env:
   CI: true
 
 jobs:
-
+  skip: ${{ true }}
   random-quote:
     runs-on: ubuntu-latest
 
