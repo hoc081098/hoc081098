@@ -5,7 +5,7 @@ Your business can now hire me (**hoc081098**) for small **Android Kotlin** and *
 
 [Contact me](#contact-me) (`hoc081098@gmail.com`) for details.
 
-## A self-taught mobile developer (Android, iOS, Flutter) with 3+ years of experience, has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`.
+## A self-taught mobile developer (Android, iOS, Flutter) with 4+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`.
 
 ## [RxDart](https://github.com/ReactiveX/rxdart) maintainer 🤟
 
