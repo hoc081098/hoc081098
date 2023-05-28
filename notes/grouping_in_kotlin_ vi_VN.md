@@ -1,8 +1,9 @@
 # Grouping trong Kotlin (Grouping in Kotlin).
 ## Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
 
-_Tags_: #kotlin, #grouping, #groupingBy, #groupBy, #reduce, #lazy-evaluation, #functional-programming, #hoc081098, #rx_mobile_team,
+- _Tags_: #kotlin, #grouping, #groupingBy, #groupBy, #reduce, #lazy-evaluation, #functional-programming, #hoc081098, #rx_mobile_team,
 #kotlindev #androiddev
+- _Source code_: https://github.com/hoc081098/hoc081098/blob/master/notes/grouping_in_kotlin_vi_VN.kt
 
 ## Đặt vấn đề
 
@@ -153,7 +154,6 @@ inline fun <S, T : S, K, M : MutableMap<in K, S>> Grouping<T, K>.reduceTo(
   return destination
 }
 ```
-
 
 ------------------------------------------
 
