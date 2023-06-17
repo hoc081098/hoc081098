@@ -53,7 +53,9 @@ void main() async {
             quote: quote,
             chatId: chatId,
             botToken: botToken,
-          ),
+          )
+              .doOnError((e, s) => print('Error: $e, Stacktrace: $s'))
+              .onErrorResumeNext(Stream.empty()),
         ),
       )
       .forEach((_) {});
