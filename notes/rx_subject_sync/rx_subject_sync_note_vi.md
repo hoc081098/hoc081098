@@ -3,6 +3,8 @@
 
 ## Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098%2Fhoc081098%2Fblob%2Fmaster%2Fnotes%2Frx_subject_sync%2Frx_subject_sync_note_vi.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - _Tags_: #functional-programming, #hoc081098, #rx_mobile_team, #kotlindev #androiddev, #iosdev, #rxswift, #rxjava, #rxkotlin
 #functional_reactive_programming, #reactive_programming, #reactive_extensions, #reactive_programming, #reactive_extensions, #rxjava2, #rxjava3, #rxswift, #rxkotlin, #rxandroid, #rxmobile
 
