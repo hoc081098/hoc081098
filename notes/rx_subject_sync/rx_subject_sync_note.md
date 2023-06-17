@@ -1,4 +1,10 @@
 # Bàn về Subject trong Rx (ví dụ với RxSwift 😇)
+# Subjects in Rx (with example in RxSwift 😇)
+
+## Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
+
+- _Tags_: #functional-programming, #hoc081098, #rx_mobile_team, #kotlindev #androiddev, #iosdev, #rxswift, #rxjava, #rxkotlin
+#functional_reactive_programming, #reactive_programming, #reactive_extensions, #reactive_programming, #reactive_extensions, #rxjava2, #rxjava3, #rxswift, #rxkotlin, #rxandroid, #rxmobile
 
 ## I. Serially rule 😇
 
@@ -35,7 +41,9 @@ Trong RxSwift, 4 loại Subject `PublishSubject`, `BehaviorSubject`, `ReplaySubj
 
 ✍️ Hãy lấy ví dụ với `PublishSubject`, gọi `onNext` trên `PublishSubject` từ nhiều thread khác nhau cùng lúc.
 
-![Synchronization anomaly](rxswift_sync_01.png)
+<p align="center">
+    <img src="rxswift_sync_01.png" height="600" />
+</p>
 
  > ❌ Lỗi này xảy ra khi event thứ nhất `onNext(1)` được send từ thread của `queue-1`, `onNext(2)` event sau lại được
  > send từ thread của `queue-2` trong khi event 1 đang được delivered,tức vẫn chưa hoàn thành việc delivery event 1.
@@ -46,14 +54,20 @@ Nếu chúng ta enable flag `FATAL_SYNCHRONIZATION`, thì RxSwift sẽ crash app
 ✅ Cách fix đơn giản nhất là tạo một `Serial DispatchQueue`, và đưa các lời gọi tới `PublishSubject` vào trong DispatchQueue đó.
  Hoặc sử dụng một `NsRecursiveLock` để đảm bảo các lời gọi tới Observer side của `PublishSubject` được synchronized.
 
-![Serial DispatchQueue](rxswift_sync_08.png)
-__Serial DispatchQueue__
+<p align="center">
+    <img src="rxswift_sync_08.png" height="600" />
+</p>
+
+_Serial DispatchQueue_
 
 <br>
 <br>
 
-![Lock](rxswift_sync_09.png)
-__NsRecursiveLock__
+<p align="center">
+    <img src="rxswift_sync_09.png" height="600" />
+</p>
+
+_NsRecursiveLock_
 
 ### 2. ⚠️ Reentrancy anomaly was detected
 
@@ -63,7 +77,9 @@ bên trong chính Observer của Subject.
 
 ✍️ Hãy lấy ví dụ gọi `onCompleted` bên trong `onNext` closure.
 
-![Reentrancy anomaly](rxswift_sync_02.png)
+<p align="center">
+    <img src="rxswift_sync_02.png" height="600" />
+</p>
 
 > ❌ Lỗi này xảu ra khi `onNext(2)` đang được delivered, và `onCompleted` được gọi trong khi
 > đang trong quá trình delivery event 2.
@@ -96,14 +112,18 @@ Hãy sử dụng các filtering operators như `filter`, `take`, `skip`, `distin
 `PublishSubject` conforms `ObserverType` protocol, 
 `ObserverType` có một số extension `onNext`, `onError`, `onCompleted` forward tới `on(_ event: Event<Int>)`.
 
-![on event](rxswift_sync_10.png)
+<p align="center">
+    <img src="rxswift_sync_10.png" height="600" />
+</p>
 
 Hãy xem implementation của `on(_ event: Event<Int>)` trong `PublishSubject.swift`.
 Khi flag `DEBUG` được enable, RxSwift sẽ dùng `SynchronizationTracker` để track lúc _bắt đầu việc dispatch event_ 
 (dòng code `self.synchronizationTracker.register(synchronizationErrorMessage: .default)`)
 và track lúc _kết thúc_ (dòng code `defer { self.synchronizationTracker.unregister() }`).
 
-![on event in PublishSubject](rxswift_sync_03.png)
+<p align="center">
+    <img src="rxswift_sync_03.png" height="600" />
+</p>
 
 `SynchronizationTracker` chứa một Dictionary `var threads = [UnsafeMutableRawPointer: Int]()` với key là con trỏ tới `Thread`,
 value là số lượng lời gọi `on(_ event: Event<Int>)` đang được thực thi (in-progress) trên Thread tương ứng.
@@ -113,14 +133,18 @@ Nếu `count > 1`, tức là có nhiều hơn 1 lời gọi `on(_ event: Event<I
 và đang bị overlap lên nhau (Reentrancy anomaly).
 Lúc đó, RxSwift sẽ log ra lỗi `⚠️ Reentrancy anomaly was detected` hoặc crash.
 
-![SynchronizationTracker 1](rxswift_sync_04.png)
+<p align="center">
+    <img src="rxswift_sync_04.png" height="600" />
+</p>
 
 Sau đó, check số lượng Threads đang trong trạng thái delivering.
 Nếu số lượng threads đang thực thi việc delivery event lớn hơn một,
 tức là có nhiều hơn 1 Thread đang delivery event đồng thời (Synchronization anomaly).
 Lúc đó, RxSwift sẽ log ra lỗi `⚠️ Synchronization anomaly was detected` hoặc crash.
 
-![SynchronizationTracker 2](rxswift_sync_05.png)
+<p align="center">
+    <img src="rxswift_sync_05.png" height="600" />
+</p>
 
 Cuối cùng, sau khi delivery event, hàm `unregister` được gọi để giảm số lượng value đi 1 cho key là con trỏ tới Thread hiện tại.
 Nếu value về 0, tức là không còn lời gọi `on(_ event: Event<Int>)` nào đang được thực thi trên Thread hiện tại,
@@ -129,3 +153,9 @@ chúng ta sẽ remove key đó ra khỏi Dictionary `threads`.
 Logic đơn giản như vậy thôi 🥰🥰.
 Các bạn có thể tìm hiểu thêm trong source code của RxSwift [Rx.swift](https://github.com/ReactiveX/RxSwift/blob/95917a57a58734cd7b747361add398906e8b255c/RxSwift/Rx.swift#L70)
 và [PublishSubject.swift](https://github.com/ReactiveX/RxSwift/blob/95917a57a58734cd7b747361add398906e8b255c/RxSwift/Subjects/PublishSubject.swift#L56).
+
+------------------------------------------
+
+Follow tôi, chúng tôi https://rx-mobile-team.github.io/profile/ để có thêm nhiều kiến thức về lập trình, không chỉ giới hạn
+ở Mobile (Android/iOS/Flutter) mà có cả Functional Programming, Reactive Programming, Data Structures, Algorithms, ...
+Những kiến thức chia sẻ ở đây, rất ít các Senior Dev và vân..vân.. chia sẻ cho các bạn đâu.
