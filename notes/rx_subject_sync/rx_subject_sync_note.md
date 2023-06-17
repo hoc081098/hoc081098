@@ -42,7 +42,7 @@ Trong RxSwift, 4 loại Subject `PublishSubject`, `BehaviorSubject`, `ReplaySubj
 ✍️ Hãy lấy ví dụ với `PublishSubject`, gọi `onNext` trên `PublishSubject` từ nhiều thread khác nhau cùng lúc.
 
 <p align="center">
-    <img src="rxswift_sync_01.png" height="600" />
+    <img src="rxswift_sync_01.png" height="500" />
 </p>
 
  > ❌ Lỗi này xảy ra khi event thứ nhất `onNext(1)` được send từ thread của `queue-1`, `onNext(2)` event sau lại được
@@ -55,7 +55,7 @@ Nếu chúng ta enable flag `FATAL_SYNCHRONIZATION`, thì RxSwift sẽ crash app
  Hoặc sử dụng một `NsRecursiveLock` để đảm bảo các lời gọi tới Observer side của `PublishSubject` được synchronized.
 
 <p align="center">
-    <img src="rxswift_sync_08.png" height="600" />
+    <img src="rxswift_sync_08.png" height="500" />
 </p>
 
 _Serial DispatchQueue_
@@ -64,7 +64,7 @@ _Serial DispatchQueue_
 <br>
 
 <p align="center">
-    <img src="rxswift_sync_09.png" height="600" />
+    <img src="rxswift_sync_09.png" height="500" />
 </p>
 
 _NsRecursiveLock_
@@ -78,7 +78,7 @@ bên trong chính Observer của Subject.
 ✍️ Hãy lấy ví dụ gọi `onCompleted` bên trong `onNext` closure.
 
 <p align="center">
-    <img src="rxswift_sync_02.png" height="600" />
+    <img src="rxswift_sync_02.png" height="500" />
 </p>
 
 > ❌ Lỗi này xảu ra khi `onNext(2)` đang được delivered, và `onCompleted` được gọi trong khi
@@ -113,7 +113,7 @@ Hãy sử dụng các filtering operators như `filter`, `take`, `skip`, `distin
 `ObserverType` có một số extension `onNext`, `onError`, `onCompleted` forward tới `on(_ event: Event<Int>)`.
 
 <p align="center">
-    <img src="rxswift_sync_10.png" height="600" />
+    <img src="rxswift_sync_10.png" height="500" />
 </p>
 
 Hãy xem implementation của `on(_ event: Event<Int>)` trong `PublishSubject.swift`.
@@ -122,7 +122,7 @@ Khi flag `DEBUG` được enable, RxSwift sẽ dùng `SynchronizationTracker` đ
 và track lúc _kết thúc_ (dòng code `defer { self.synchronizationTracker.unregister() }`).
 
 <p align="center">
-    <img src="rxswift_sync_03.png" height="600" />
+    <img src="rxswift_sync_03.png" height="500" />
 </p>
 
 `SynchronizationTracker` chứa một Dictionary `var threads = [UnsafeMutableRawPointer: Int]()` với key là con trỏ tới `Thread`,
@@ -134,7 +134,7 @@ và đang bị overlap lên nhau (Reentrancy anomaly).
 Lúc đó, RxSwift sẽ log ra lỗi `⚠️ Reentrancy anomaly was detected` hoặc crash.
 
 <p align="center">
-    <img src="rxswift_sync_04.png" height="600" />
+    <img src="rxswift_sync_04.png" height="500" />
 </p>
 
 Sau đó, check số lượng Threads đang trong trạng thái delivering.
@@ -143,7 +143,7 @@ tức là có nhiều hơn 1 Thread đang delivery event đồng thời (Synchro
 Lúc đó, RxSwift sẽ log ra lỗi `⚠️ Synchronization anomaly was detected` hoặc crash.
 
 <p align="center">
-    <img src="rxswift_sync_05.png" height="600" />
+    <img src="rxswift_sync_05.png" height="500" />
 </p>
 
 Cuối cùng, sau khi delivery event, hàm `unregister` được gọi để giảm số lượng value đi 1 cho key là con trỏ tới Thread hiện tại.
