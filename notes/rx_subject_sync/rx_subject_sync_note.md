@@ -1,6 +1,6 @@
 # Bàn về Subject trong Rx (ví dụ với RxSwift 😇)
 
-## Serially rule 😇
+## I. Serially rule 😇
 
 `Observable` trong `ReactiveX` phải thuân thủ quy tắc `Serially`, tức là phải đảm bảo các sự kiện phát ra không được overlap
  lên nhau. Quy tắc này không bắt buộc các event (signal) phải được delivered đến các subscriber ở cùng một thread. 
@@ -16,7 +16,7 @@ Hãy xem [Reactive Streams Specification for the JVM](http://www.reactive-stream
 ![Serially](rxswift_sync_06.png)
 ![Serially](rxswift_sync_07.png)
 
-## Subjects are not thread-safe on the Observer side 🥺
+## II. Subjects are not thread-safe on the Observer side 🥺
 
 `Subject` không phải là thread-safe ở phía Observer.
 Nếu chúng ta invoke `onNext`, `onError`, `onCompleted` trên `Subject` từ nhiều thread khác nhau thì có thể dẫn đến
@@ -29,7 +29,7 @@ sẽ serialize các lời gọi tới method của Observer side, điều này �
 được synchronized bởi chính `SerializedSubject` đó, queue này sẽ giữ các event (signal/notification) bị missed,
 để sau đó sẽ loop và deliver chúng đến các Observer một cách synchronized.
 
-### ⚠️ Synchronization anomaly was detected
+### 1. ⚠️ Synchronization anomaly was detected
 
 Trong RxSwift, 4 loại Subject `PublishSubject`, `BehaviorSubject`, `ReplaySubject`, `AsyncSubject` đều không thread-safe.
 
@@ -55,7 +55,7 @@ __Serial DispatchQueue__
 ![Lock](rxswift_sync_09.png)
 __NsRecursiveLock__
 
-### ⚠️ Reentrancy anomaly was detected
+### 2. ⚠️ Reentrancy anomaly was detected
 
 Nếu chúng ta đảm bảo các lời gọi tới Observer side một Subject luôn trên cùng một Thread,
 nhưng vẫn có thể gặp lỗi `⚠️ Reentrancy anomaly was detected`. Lỗi này hay gặp khi chúng ta gọi các Observer side của một Subject,
@@ -90,7 +90,7 @@ Hãy sử dụng các filtering operators như `filter`, `take`, `skip`, `distin
 <br>
 <br>
 
-### Tìm hiểu cách RxSwift detect các lỗi trên
+### 3. Tìm hiểu cách RxSwift detect các lỗi trên
 
 Đầu tiên, hãy xem source của `PublishSubject.swift`.
 `PublishSubject` conforms `ObserverType` protocol, 
