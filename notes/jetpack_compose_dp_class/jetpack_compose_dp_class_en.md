@@ -10,7 +10,7 @@ When using Jetpack Compose, we often use `Dp` class to represent a dimension val
 pixels (dp)
 It is used many times and everywhere in Jetpack Compose.
 
-Do you have the same question as me, when looking Jetpack Compose source code:
+Do you have the same question as me 😇, when looking Jetpack Compose source code:
 **Why @Composable functions in Jetpack Compose usually use `Dp.Unspecified` as default value? Why not use null?**
 
 <p align="center">
@@ -69,7 +69,7 @@ That is the optimization of Jetpack Compose.
 
 > The inline class spec is [here](https://github.com/Kotlin/KEEP/blob/master/proposals/inline-classes.md).
 
-#### I.2. Example
+#### I.2. Example ✍️
 
 Let's create a simple example to see how the compiler optimizes `Dp` class, I create a `@Composable fun MyComposable1`
 accepting a `Dp` as the first parameter.
@@ -130,10 +130,10 @@ Instead, `Dp?` must be used!!!
 
 `Dp?` is a reference type, not a primitive type, it requires **heap allocation**.
 Imagine we use `Dp?` type in many places (the worst case is in a loop or is in List/Row/Column/... UI),
-it will cause a lot of heap allocation, affect the application performance,
+it will cause a lot of heap allocation, affect the application performance ⚠️,
 especially a UI application, its performance is very important to the user experience.
 
-#### II.2. Demonstration example
+#### II.2. Demonstration example ✍️
 
 Let's create a simple example using `Dp?` type, we create a `@Composable fun MyComposable2` accepting a `Dp?` as the
 first parameter.
@@ -150,7 +150,7 @@ After compile and decompile java bytecode to Java code, we can see that `Dp` typ
 it is preserved.
 Inside `UseMyComposable2`, `Dp.box-impl(Dp.constructor-impl((float)$this$dp$iv))` is used to box a `Float` value to
 a `Dp`.
-It is a heap allocation.
+It is a heap allocation ⚠️.
 
 <p align="center">
     <img src="img_4.png" width="600" />
@@ -161,10 +161,10 @@ _Dp type is not replaced with Float type and heap allocation is used_
 <br>
 
 **That is the reason why we must not use `null` as default value**.
-`Dp.Unspecified` is a better choice, it wraps a `Float.NaN` value.
+`Dp.Unspecified` is a better choice ✅, it wraps a `Float.NaN` value.
 Sometimes, we can use `Dp.Hairline` (aka `0.dp`) as default value, depending on your use case.
 
-#### II.3. Bonus
+#### II.3. Bonus ✅
 
 - How about elvis operator `?:`?
 - How about `== null`?
