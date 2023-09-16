@@ -180,5 +180,9 @@ Jetpack Compose has replacements, they are `Dp.takeOrElse(block: () -> Dp): Dp` 
 
 _Dp.takeOrElse and Dp.isUnspecified_
 
-Follow tôi, chúng tôi https://rx-mobile-team.github.io/profile/ để có thêm nhiều kiến thức về lập trình, không chỉ giới hạn
-ở Mobile (Android/iOS/Flutter) mà có cả Functional Programming, Reactive Programming, Data Structures, Algorithms, ...
+----------------------------------------
+
+Thanks for reading 🤗.
+
+Follow me (@hoc081098) and us (https://rx-mobile-team.github.io/profile/) to have more knowledge about programming, not only limited to
+Mobile (Android/iOS/Flutter) but also Functional Programming, Reactive Programming, Data Structures, Algorithms, ...
