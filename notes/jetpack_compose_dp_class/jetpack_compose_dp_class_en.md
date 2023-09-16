@@ -2,9 +2,11 @@
 
 ## Why @Composable functions in Jetpack Compose usually use `Dp.Unspecified` as default value? Why not use null? The optimization of Jetpack Compose under the hood
 
-### Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
-
+- Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
+- _Published on Sep 16, 2023_
+- _5 minutes read so far_
 - _Tags_: #hoc081098, #rx_mobile_team, #kotlindev #androiddev, #rxandroid, #jetpack_compose, #value_class
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098%2Fhoc081098%2Fblob%2Fmaster%2Fnotes%2Fjetpack_compose_dp_class%2Fjetpack_compose_dp_class_en.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 When using Jetpack Compose, we often use `Dp` class to represent a dimension value representing device-independent
 pixels (dp)
