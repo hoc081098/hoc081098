@@ -1,8 +1,6 @@
 # Looking at `Dp` class in Jetpack Compose
 
-## Why @Composable functions in Jetpack Compose usually use `Dp.Unspecified` as default value? Why not use null?
-
-## The optimization of Jetpack Compose under the hood
+## Why @Composable functions in Jetpack Compose usually use `Dp.Unspecified` as default value? Why not use null? The optimization of Jetpack Compose under the hood
 
 ### Author: [Petrus Nguyễn Thái Học](https://github.com/hoc081098)
 
