@@ -96,7 +96,7 @@ _Dp types are replaced with Float types_
 
 <br>
 
-You many notice that the method name `MyComposable1` has been changed, that is
+You may notice that the method name `MyComposable1` has been changed, that is
 called [mangling](https://kotlinlang.org/docs/inline-classes.html#mangling).
 
 > Mangling: since inline classes are compiled to their underlying type, it may lead to various obscure errors, for
