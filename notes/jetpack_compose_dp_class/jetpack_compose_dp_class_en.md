@@ -82,6 +82,8 @@ accepting a `Dp` as the first parameter.
 
 _MyComposable1 accepts a Dp as the first parameter_
 
+<br>
+
 After compile and decompile java bytecode to Java code, we can see that the compiler has replaced `Dp` type with `Float`
 type.
 
@@ -90,6 +92,8 @@ type.
 </p>
 
 _Dp type is replaced with Float type_
+
+<br>
 
 You many notice that the method name has been changed, that is
 called [mangling](https://kotlinlang.org/docs/inline-classes.html#mangling).
@@ -110,6 +114,8 @@ the compiler.
 </p>
 
 _Dp.Unspecified is usually used as default value in Jetpack Compose source code_
+
+<br>
 
 `Inline value class` and `Auto Boxing` are keywords here.
 
@@ -140,6 +146,8 @@ first parameter.
 
 _MyComposable2 accepts a Dp? as the first parameter_
 
+<br>
+
 After compile and decompile java bytecode to Java code, we can see that `Dp` type is not replaced with `Float` type,
 it is preserved.
 Inside `UseMyComposable2`, `Dp.box-impl(Dp.constructor-impl((float)$this$dp$iv))` is used to box a `Float` value to
@@ -151,6 +159,8 @@ It is a heap allocation.
 </p>
 
 _Dp type is not replaced with Float type and heap allocation is used_
+
+<br>
 
 That is the reason why we must not use `null` as default value.
 `Dp.Unspecified` is a better choice, it wraps a `Float.NaN` value.
@@ -169,3 +179,6 @@ Jetpack Compose has replacements, they are `Dp.takeOrElse(block: () -> Dp): Dp` 
 </p>
 
 _Dp.takeOrElse and Dp.isUnspecified_
+
+Follow tôi, chúng tôi https://rx-mobile-team.github.io/profile/ để có thêm nhiều kiến thức về lập trình, không chỉ giới hạn
+ở Mobile (Android/iOS/Flutter) mà có cả Functional Programming, Reactive Programming, Data Structures, Algorithms, ...
