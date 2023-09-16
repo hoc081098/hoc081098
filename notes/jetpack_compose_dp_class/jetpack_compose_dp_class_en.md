@@ -133,7 +133,7 @@ Imagine we use `Dp?` type in many places (the worst case is in a loop or is in L
 it will cause a lot of heap allocation, affect the application performance,
 especially a UI application, its performance is very important to the user experience.
 
-#### II.2. Example
+#### II.2. Demonstration example
 
 Let's create a simple example using `Dp?` type, we create a `@Composable fun MyComposable2` accepting a `Dp?` as the
 first parameter.
@@ -160,7 +160,7 @@ _Dp type is not replaced with Float type and heap allocation is used_
 
 <br>
 
-That is the reason why we must not use `null` as default value.
+**That is the reason why we must not use `null` as default value**.
 `Dp.Unspecified` is a better choice, it wraps a `Float.NaN` value.
 Sometimes, we can use `Dp.Hairline` (aka `0.dp`) as default value, depending on your use case.
 
