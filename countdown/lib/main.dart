@@ -65,7 +65,7 @@ Single<void> send({
       final now = DateTime.now();
       final tetHoliday = DateTime(2024, DateTime.february, 10);
       final noelDay = DateTime(2023, 12, 25);
-      final newYearDay = DateTime(2023, 1, 1);
+      final newYearDay = DateTime(2024, 1, 1);
       // final message = messages[_random.nextInt(messages.length)];
 
       final uri = Uri.https(
