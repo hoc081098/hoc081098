@@ -129,7 +129,11 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 
 ----
 
-![github contribution grid snake animation](dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
