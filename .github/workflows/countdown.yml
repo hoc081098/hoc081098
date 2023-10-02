@@ -9,7 +9,6 @@ env:
   CI: true
 
 jobs:
-  skip: ${{ true }}
   random-quote:
     if: ${{ github.repository == 'hoc081098/hoc081098' }}
     runs-on: ubuntu-latest
