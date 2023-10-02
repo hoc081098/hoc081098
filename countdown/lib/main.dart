@@ -76,10 +76,10 @@ Single<void> send({
           'text': '''
 *❤️Countdown❤️*
 -------------------
-♥♥♥ Còn ${noelDay.difference(now).inDays} ngày nữa là Noel ♥♥♥
-♥♥♥ Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương ♥♥♥
-♥♥♥ Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm ♥♥♥
-♥♥♥ Have a nice day ❤️♥♥♥
+♥ Còn ${noelDay.difference(now).inDays} ngày nữa là Noel ♥
+♥ Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương ♥
+♥ Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm ♥
+♥♥♥ Have a nice day ♥♥♥
 -------------------
 - This message is sent by a bot (@hoc081098).
       ''',

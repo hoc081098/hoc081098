@@ -4,3 +4,4 @@ lib/.dart_tool/
 
 # Conventional directory for build output.
 build/
+.dart_tool
