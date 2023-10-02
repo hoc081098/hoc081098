@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:http_client_hoc081098/http_client_hoc081098.dart';
 import 'package:http/http.dart' as http;
+import 'package:http_client_hoc081098/http_client_hoc081098.dart';
 import 'package:rxdart_ext/rxdart_ext.dart';
 
 void main() async {
@@ -88,7 +88,6 @@ Single<void> send({
 Have a nice day ❤️!
 -------------------
 - This message is sent by a bot (@hoc081098).
-- Source code: [telegram_random_quotes](https://github.com/hoc081098/hoc081098/tree/master/telegram_random_quotes)
       ''',
           'parse_mode': 'Markdown',
         },
