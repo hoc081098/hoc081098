@@ -1,8 +1,8 @@
 name: Count down
 
 on:
-#  schedule:
-#    - cron: '0 3 * * *' # Runs at 03:00 UTC every day.
+  schedule:
+    - cron: '0 3 * * *' # Runs at 03:00 UTC every day.
   workflow_dispatch:
 
 env:
