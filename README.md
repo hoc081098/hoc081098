@@ -1,17 +1,9 @@
 # I am available for _Freelance work_. [Contact me](#contact-me)
 ## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
-Your business can now hire me (**hoc081098**) for small **Android Kotlin** and **Flutter** side projects.
-
-[Contact me](#contact-me) (`hoc081098@gmail.com`) for details.
-
-## A self-taught mobile developer (Android, iOS, Flutter) with 4+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`.
-
-## [RxDart](https://github.com/ReactiveX/rxdart) maintainer 🤟
+### A self-taught mobile developer (Android, iOS, Flutter) with 4+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
 
 <br>
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
 <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
 
 
@@ -23,8 +15,6 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11191424/hoc081098)
 [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoc081098@gmail.com?subject=[Freelancer]%20Hello)
 
-### Skills
-
 [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart)
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
@@ -33,8 +23,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
 
-### Hello visitors
-
+<!--
 <p align="center">
   <code><img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
   <img src='https://github.com/Kotlin-Android-Open-Source/.github/blob/main/profile/Kotlin%20Full%20Color%20Logo%20Mark%20RGB.png?raw=true' width='76"'>
@@ -42,6 +31,7 @@ Liked some of my work? Buy me a coffee (or more likely a beer)
   <img src='https://github.com/hoc081098/hoc081098/raw/master/jetpack2.png' width='80"'>
   <img src='https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/RxSwift_Logo.png' width='80"'>
   </p>
+-->
   
 </code>
 
