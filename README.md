@@ -1,4 +1,3 @@
-# I am available for _Freelance work_. [Contact me](#contact-me)
 ## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
 ### A self-taught mobile developer (Android, iOS, Flutter) with 4+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
