@@ -1,6 +1,6 @@
 ## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
-### A self-taught mobile developer (Android, iOS, Flutter) with 4+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
+### A self-taught developer (Android, iOS, Flutter, NestJs) with 5+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
 
 <br>
 <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
