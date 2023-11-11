@@ -1,6 +1,6 @@
 ## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
-### A self-taught senior developer (Android, iOS, Flutter, NestJs) with 5+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
+### A self-taught senior developer (Android, iOS, Flutter, NestJs) with 5+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
@@ -15,6 +15,8 @@
 [![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white")](https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift)
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
 [![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
+
+<a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=46></a>
 
 <!--
 <p align="center">
@@ -38,14 +40,10 @@
    </a>
   </p>
 
-
-   <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
-  
   ### Resume and blog
   
   - [My CV](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing).
   - [Medium](https://hoc081098.medium.com/).
-  - [Facebook](https://www.facebook.com/kotlinandroid081098).
   
   ### My apps
   
@@ -55,14 +53,14 @@
   
   GPS speedometer can easily track / measure your speed (in km/h or m/s), your distance (in km or m), your time, your current location and show your location in map, with beautiful route. Motorcycle GPS Speedometer app will measure your traveling speed and when speed exceed limit alarm will start warning alarm with sound and vibration. Distance tracking app supports different speed units like kilometer per hour (km/h), meter per second (m/s) and ...
   
-  ### Libraries and packages (Android/Kotlin, iOS/Swift and Flutter/Dart)
+  ### Libraries and packages (Kotlin/Android, iOS/Swift and Flutter/Dart)
 
   #### Kotlin Multiplatform
 
    - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
    - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.
   
-  #### Android/Kotlin
+  #### Android
   
    - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
 
