@@ -59,17 +59,21 @@
   GPS speedometer can easily track / measure your speed (in km/h or m/s), your distance (in km or m), your time, your current location and show your location in map, with beautiful route. Motorcycle GPS Speedometer app will measure your traveling speed and when speed exceed limit alarm will start warning alarm with sound and vibration. Distance tracking app supports different speed units like kilometer per hour (km/h), meter per second (m/s) and ...
   
   ### Libraries and packages (Android/Kotlin, iOS/Swift and Flutter/Dart)
+
+  #### Kotlin Multiplatform
+
+   - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
+   - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.
   
   #### Android/Kotlin
   
    - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
-   - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
 
   #### iOS/Swift
   
    - **PhDownloader** (https://cocoapods.org/pods/PhDownloader, https://github.com/hoc081098/PhDownloader) - Simple, reactive and functional downloader for `iOS Swift` with the power of `RxSwift`, `RxAlamofire`.
   
-  #### Dart/Flutter: https://pub.dev/packages?q=email%3Ahoc081098%40gmail.com
+  #### Dart/Flutter
 
    1. [**RxDart**](https://github.com/ReactiveX/rxdart) official maintainer https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart Streams` API.
    2. **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences, https://github.com/hoc081098/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
