@@ -59,11 +59,15 @@
   GPS speedometer can easily track / measure your speed (in km/h or m/s), your distance (in km or m), your time, your current location and show your location in map, with beautiful route. Motorcycle GPS Speedometer app will measure your traveling speed and when speed exceed limit alarm will start warning alarm with sound and vibration. Distance tracking app supports different speed units like kilometer per hour (km/h), meter per second (m/s) and ...
   
   ### Libraries and packages (Android/Kotlin, iOS/Swift and Flutter/Dart)
+
+  #### Kotlin Multiplatform
+
+   - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
+   - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications. Components are lifecycle-aware on Android. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
   
   #### Android/Kotlin
   
    - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
-   - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
 
   #### iOS/Swift
   
