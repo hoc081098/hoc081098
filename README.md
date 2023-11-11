@@ -63,7 +63,7 @@
   #### Kotlin Multiplatform
 
    - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
-   - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications. Components are lifecycle-aware on Android. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.
+   - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.
   
   #### Android/Kotlin
   
