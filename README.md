@@ -116,7 +116,7 @@
 ----
 
 
-<details open>
+<details>
   <summary>More</summary>
 
   
