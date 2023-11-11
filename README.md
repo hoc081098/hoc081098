@@ -7,6 +7,8 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hoc081098)
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11191424/hoc081098)
 [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoc081098@gmail.com?subject=[Freelancer]%20Hello)
+[![Medium](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://hoc081098.medium.com/)
+[![My CV](https://img.shields.io/badge/my_cv-%23E4405F.svg?&style=for-the-badge)](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing)
 
 [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart)
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
@@ -39,11 +41,6 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
    </a>
   </p>
-
-  ### Resume and blog
-  
-  - [My CV](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing).
-  - [Medium](https://hoc081098.medium.com/).
   
   ### My apps
   
