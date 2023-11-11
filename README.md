@@ -2,10 +2,6 @@
 
 ### A self-taught senior developer (Android, iOS, Flutter, NestJs) with 5+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava / RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
 
-<br>
-<a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
-<br>
-
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hoc081098)
@@ -41,6 +37,9 @@
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
    </a>
   </p>
+
+
+   <a href="https://www.buymeacoffee.com/hoc081098" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
   
   ### Resume and blog
   
@@ -114,12 +113,13 @@
 <img src="https://wakatime.com/share/@hoc081098/0034b2b3-5a17-448f-8e2f-4db27bc6dc07.svg" width=700 />
 </p>
 
-<p align="center">
-<img src="https://wakatime.com/share/@hoc081098/03e708e0-d845-4d53-9808-61265bf883b9.svg" />
-</p>
-
 ----
 
+
+<details open>
+  <summary>More</summary>
+
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
@@ -129,6 +129,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 [![hoc0810198's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
@@ -141,6 +142,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <p align="center">
       <img src="gitartwork.svg" />
   </p>
+
+</details>
   
 
 ### Open Source Projects
