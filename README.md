@@ -102,6 +102,12 @@
 
 ----
 
+
+<details>
+  <summary>More</summary>
+  
+
+
 <p align="center">
   <img src="https://wakatime.com/share/@hoc081098/19b01a7d-027e-4423-8bbd-f1471b0fd757.svg" width=700/>
 </p>
@@ -112,9 +118,6 @@
 
 ----
 
-
-<details>
-  <summary>More</summary>
 
   
 <picture>
