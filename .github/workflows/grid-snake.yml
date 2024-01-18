@@ -1,12 +1,14 @@
 name: Grid snake
 
 on:
-  # push:
-  #  branches: [ master ]
-  # pull_request:
-  #  branches: [ master ]
-  # schedule:
-  #  - cron: '0 */6 * * *' # Runs on the 0, 6, 12 and 18th hour.
+  push:
+   branches: [ master ]
+  pull_request:
+   branches: [ master ]
+  schedule:
+   - cron: '0 */6 * * *' # Runs on the 0, 6, 12 and 18th hour.
+  workflow_dispatch:
+
 
 jobs:
   build:
