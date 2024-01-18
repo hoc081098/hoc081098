@@ -56,10 +56,12 @@
 
    - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
    - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.
-  
+
   #### Android
   
    - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
+
+   -  Contributed to https://github.com/freeletics/khonshu
 
   #### iOS/Swift
   
