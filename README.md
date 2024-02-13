@@ -56,7 +56,7 @@
 
    - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.
    - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.
-   - **solivagant** (https://search.maven.org/artifact/io.github.hoc081098/solivagant-navigation, https://github.com/hoc081098/solivagant) - 🔆 Compose Multiplatform Navigation - 🌸 Pragmatic, type safety navigation for Compose Multiplatform. Based on [Freeletics Khonshu Navigation](https://freeletics.github.io/khonshu/navigation/get-started/). ♥️ ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, and more...
+   - **solivagant** (https://search.maven.org/artifact/io.github.hoc081098/solivagant-navigation, https://github.com/hoc081098/solivagant) - 🔆 Compose Multiplatform Navigation - 🌸 Pragmatic, type safety navigation for Compose Multiplatform. Based on [Freeletics Khonshu Navigation](https://freeletics.github.io/khonshu/navigation/get-started/). ♥️ ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling and more...
 
   #### Android
   
