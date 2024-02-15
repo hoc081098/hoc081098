@@ -2,7 +2,7 @@ name: Count down
 
 on:
   schedule:
-   - cron: '0 3 * * *' # Runs at 03:00 UTC every day.
+   - cron: '0 3 * * 1' # Runs at 03:00, only on Monday.
   workflow_dispatch:
 
 env:
