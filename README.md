@@ -1,6 +1,9 @@
-## Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for work 🤟
 
-### A self-taught senior developer (Android, iOS, Flutter, NestJs) with 5+ years of experience (since 2018 Summer), has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
+### A self-taught Senior Engineer (Android, iOS, Flutter, NestJs, ...) with 6+ years of experience (since 2018 Summer)
+
+#### Has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
+
+#### Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for freelance jobs 🤟
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
@@ -9,7 +12,6 @@
 [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoc081098@gmail.com?subject=[Freelancer]%20Hello)
 [![Medium](https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://hoc081098.medium.com/)
 [![My CV](https://img.shields.io/badge/my_cv-%23E4405F.svg?&style=for-the-badge)](https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing)
-
 [![ReactiveX](https://img.shields.io/badge/reactiveX-%23E4405F.svg?&style=for-the-badge)](https://github.com/ReactiveX/rxdart)
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
@@ -47,8 +49,13 @@
   #### GPS speedometer Track distance
   
   [<img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="You can install the production app via Get it on Google Play" width="256px">](https://play.google.com/store/apps/details?id=com.mobileappsdev98.gpsspeedometer.distancemeter.speedtracker)
+
+<details>
+  <summary>Details</summary>
   
   GPS speedometer can easily track / measure your speed (in km/h or m/s), your distance (in km or m), your time, your current location and show your location in map, with beautiful route. Motorcycle GPS Speedometer app will measure your traveling speed and when speed exceed limit alarm will start warning alarm with sound and vibration. Distance tracking app supports different speed units like kilometer per hour (km/h), meter per second (m/s) and ...
+
+</details>
   
   ### Libraries and packages (Kotlin/Android, iOS/Swift and Flutter/Dart)
 
@@ -89,7 +96,12 @@
    16. **cancellation_token_hoc081098** (https://pub.dev/packages/cancellation_token_hoc081098, https://github.com/hoc081098/cancellation_token_hoc081098) - Dart Cancellation Token. Inspired by CancellationToken in C#. A Dart utility package for easy async task cancellation.
    17. **http_client_hoc081098** (https://pub.dev/packages/http_client_hoc081098, https://github.com/hoc081098/http_client_hoc081098) - Simple and powerful HTTP client for Flutter and Dart application.
 
-### Github Stats: <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
+### Github Stats
+
+<a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
+
+<details>
+  <summary>More...</summary>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
 
@@ -101,13 +113,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&theme=vue)](https://github.com/hoc081098/WeatherApp_MVI_sample)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue)](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
 -->
-
-----
-
-
-<details>
-  <summary>More</summary>
-  
 
 
 <p align="center">
