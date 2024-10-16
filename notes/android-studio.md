@@ -1,3 +1,4 @@
+```
 Android Studio Ladybug | 2024.2.1
 Build #AI-242.21829.142.2421.12409432, built on September 25, 2024
 Runtime version: 21.0.3+-79915915-b509.11 x86_64
@@ -30,3 +31,4 @@ Non-Bundled Plugins:
   com.suusan2go.kotlin-fill-class (1.0.23)
   com.github.copilot (1.5.25.10)
   io.flutter (81.1.3)
+```
