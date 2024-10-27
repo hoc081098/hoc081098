@@ -1,5 +1,5 @@
 
-### A self-taught Senior Engineer (Android, iOS, Flutter, NestJs, ...) with 6+ years of experience (since 2018 Summer)
+### A self-taught Senior Engineer (Android, iOS, Flutter, NestJs, ...) with 7+ years of experience (since 2018 Summer)
 
 #### Has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
 
