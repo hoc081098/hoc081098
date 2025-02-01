@@ -6,9 +6,8 @@ on:
   pull_request:
    branches: [ master ]
   schedule:
-   - cron: '0 */6 * * *' # Runs on the 0, 6, 12 and 18th hour.
+   - cron: '0 3 * * *' # Runs at 03:00 UTC.
   workflow_dispatch:
-
 
 jobs:
   build:
