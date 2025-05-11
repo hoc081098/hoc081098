@@ -38,11 +38,18 @@
    <code>Visitor count</code>
    <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
   
-   <br>
+
+<p align="center">
+   <a href="https://hits.sh/github.com/hoc081098/"><img alt="Hits" src="https://hits.sh/github.com/hoc081098.svg"/></a>
+
+</p>
+
+<!--
+   
    <a href="https://hits.seeyoufarm.com">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoc081098&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
    </a>
-  </p>
+-->
   
   ### I. My apps
   
