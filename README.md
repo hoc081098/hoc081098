@@ -36,9 +36,7 @@
 
 <p align="center">
    <code>Visitor count</code>
-   <img src="https://profile-counter.glitch.me/hoc081098/count.svg" />
-  
-
+   
 <p align="center">
    <a href="https://hits.sh/github.com/hoc081098/"><img alt="Hits" src="https://hits.sh/github.com/hoc081098.svg"/></a>
 
