@@ -19,7 +19,7 @@ jobs:
         working-directory: ./telegram_random_quotes
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
 
       - name: Setup Dart
         uses: dart-lang/setup-dart@v1.4
