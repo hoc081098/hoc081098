@@ -29,10 +29,9 @@
   <img src='https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg' width='80"'>
   <img src='https://github.com/hoc081098/hoc081098/raw/master/jetpack2.png' width='80"'>
   <img src='https://raw.githubusercontent.com/ReactiveX/RxSwift/main/assets/RxSwift_Logo.png' width='80"'>
-  </p>
--->
-  
 </code>
+</p>
+-->
 
 <p align="center">
    <code>Visitor count</code>
@@ -50,11 +49,9 @@
 -->
 
 
-  
-  ### I. My apps
-
 <!--
-  
+### I. My apps
+
   #### GPS speedometer Track distance
   
   [<img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="You can install the production app via Get it on Google Play" width="256px">](https://play.google.com/store/apps/details?id=com.mobileappsdev98.gpsspeedometer.distancemeter.speedtracker)
@@ -67,27 +64,27 @@
 </details>
 
 -->
-  
-  ### II. Libraries and packages (Kotlin/Android, iOS/Swift and Flutter/Dart)
 
-  #### Kotlin Multiplatform
+### I. Libraries and packages (Kotlin/Android, iOS/Swift and Flutter/Dart)
+
+  #### I.1. Kotlin Multiplatform
 
    - **FlowExt** (https://search.maven.org/artifact/io.github.hoc081098/FlowExt, https://github.com/hoc081098/FlowExt) - Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.  
    - **kmp-viewmodel** (https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel, https://github.com/hoc081098/kmp-viewmodel) - 🔆 Kotlin Multiplatform ViewModel. Kotlin Multiplatform MVVM. Common/Shared ViewModel in Kotlin Multiplatform - A Kotlin Multiplatform library that provides shared MVVM for UI applications.  
    - **solivagant** (https://search.maven.org/artifact/io.github.hoc081098/solivagant-navigation, https://github.com/hoc081098/solivagant) - 🔆 Compose Multiplatform Navigation - 🌸 Pragmatic, type safety navigation for Compose Multiplatform. Based on [Freeletics Khonshu Navigation](https://freeletics.github.io/khonshu/navigation/get-started/). ♥️ ViewModel, SavedStateHandle, Lifecycle, Multi-Backstacks, Transitions, Back-press handling, and more...  
    - **kotlin-channel-event-bus** (https://search.maven.org/artifact/io.github.hoc081098/channel-event-bus, https://github.com/hoc081098/kotlin-channel-event-bus) - A Kotlin Multiplatform library that provides a simple event bus implementation using KotlinX Coroutines Channels. Multi-keys, multi-producers, single-consumer and thread-safe event bus backed by `kotlinx.coroutines.channels.Channels`.  
 
-  #### Android
+  #### I.2. Android
   
    - **ViewBindingDelegate** (https://jitpack.io/#hoc081098/ViewBindingDelegate, https://github.com/hoc081098/ViewBindingDelegate) - Simple one-liner `ViewBinding` in `Fragments` and `Activities` with Kotlin Property Delegates.
 
    -  Contributed to https://github.com/freeletics/khonshu
 
-  #### iOS/Swift
+  #### I.3. iOS/Swift
   
    - **PhDownloader** (https://cocoapods.org/pods/PhDownloader, https://github.com/hoc081098/PhDownloader) - Simple, reactive and functional downloader for `iOS Swift` with the power of `RxSwift`, `RxAlamofire`.
   
-  #### Dart/Flutter
+  #### I.4. Dart/Flutter
 
    1. [**RxDart**](https://github.com/ReactiveX/rxdart) official maintainer https://github.com/ReactiveX/rxdart/commits?author=hoc081098 - An implementation of the popular `ReactiveX` api for asynchronous programming, leveraging the native `Dart Streams` API.
    2. **rx_shared_preferences** (https://pub.dev/packages/rx_shared_preferences, https://github.com/hoc081098/rx_shared_preferences) - Reactive shared preferences for `Flutter`.
@@ -107,7 +104,7 @@
    16. **cancellation_token_hoc081098** (https://pub.dev/packages/cancellation_token_hoc081098, https://github.com/hoc081098/cancellation_token_hoc081098) - Dart Cancellation Token. Inspired by CancellationToken in C#. A Dart utility package for easy async task cancellation.
    17. **http_client_hoc081098** (https://pub.dev/packages/http_client_hoc081098, https://github.com/hoc081098/http_client_hoc081098) - Simple and powerful HTTP client for Flutter and Dart application.
 
-### III. Github Stats
+### II. GitHub Stats
 
 <a href="https://profile-summary-for-github.com/user/hoc081098">https://profile-summary-for-github.com/user/hoc081098</a>
 
@@ -163,6 +160,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 </details>
   
+
+### III. Notes / Blog posts
+
+1. **[Looking at `Dp` class in Jetpack Compose](notes/jetpack_compose_dp_class/jetpack_compose_dp_class_en.md)** - Why do @Composable functions in Jetpack Compose usually use `Dp.Unspecified` as default value? Why not use null? The optimization of Jetpack Compose under the hood.
+2. **[Bàn về Subject trong Rx (Subjects in Rx)](notes/rx_subject_sync/rx_subject_sync_note_vi.md)** - Serially rule in RxSwift, RxJava, RxKotlin and more.
+3. **[Grouping trong Kotlin (Grouping in Kotlin)](notes/grouping_in_kotlin_vi_VN.md)** - `groupingBy`, `groupBy`, `reduce`, lazy-evaluation in Kotlin.
 
 ### IV. Open Source Projects
 
