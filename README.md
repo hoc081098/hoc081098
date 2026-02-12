@@ -113,11 +113,12 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoc081098" alt="hoc081098" /></p>
 
+<!--
+
 [![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoc081098)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoc081098)
 [![hoc081098's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoc081098&layout=compact&bg_color=ffffff)](https://github.com/hoc081098)
 
-<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&theme=vue)](https://github.com/hoc081098/WeatherApp_MVI_sample)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kotlin-Android-Open-Source&repo=MVI-Coroutines-Flow&theme=vue)](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)
 -->
@@ -146,9 +147,12 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 [![hoc0810198's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hoc081098&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<!--
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
+-->
+
   <a href="https://commits.top/vietnam_private.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
@@ -173,6 +177,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 - [Kotlin-Multiplatform-Foundation](https://github.com/Kotlin-Multiplatform-Foundation)
 - [Flutter-Dart-Open-Source](https://github.com/Flutter-Dart-Open-Source)
 
+<!--
 <a href="https://github.com/hoc081098/WeatherApp_MVI_sample">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=WeatherApp_MVI_sample&bg_color=ffffff" height="148" width="399"/>
 </a>
@@ -191,5 +196,4 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=hoc081098&repo=rx_shared_preferences&bg_color=ffffff" height="148" width="399"/>
 </a>
 
-
-
+-->
