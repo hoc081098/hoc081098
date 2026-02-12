@@ -1,9 +1,9 @@
 
 ### A self-taught Senior Engineer (Android, iOS, Flutter, NestJs, ...) with 7+ years of experience (since 2018 Summer)
 
-#### Has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
-
-#### Contact `Rx Mobile Team` via https://rx-mobile-team.github.io/profile/ for freelance jobs 🤟
+- 💪 **Has a strong knowledge of `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming`** (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow, ...), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`. [Official RxDart maintainer](https://github.com/ReactiveX/rxdart) 🤟
+- 🌱 **Currently learning `C#`, `.NET` and `ASP.NET Core`:** [netauth-ddd-cqrs-clean](https://github.com/hoc081098/netauth-ddd-cqrs-clean), [Dotnet-Playground](https://github.com/hoc081098/Dotnet-Playground)
+- 📫 **Contact `Rx Mobile Team`** via https://rx-mobile-team.github.io/profile/ for freelance jobs 🤟
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hoc081098)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoc081098)
