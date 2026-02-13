@@ -86,7 +86,7 @@
 
 | #  | Library                                                                                                                                                                                                                                                        | Description                                                          |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1  | 🏆 [**RxDart**](https://github.com/ReactiveX/rxdart) [![Pub](https://img.shields.io/pub/v/rxdart?style=flat-square)](https://pub.dev/packages/rxdart)                                                                                                          | **Official maintainer** - ReactiveX implementation for Dart Streams. |
+| 1  | 🏆 [**RxDart**](https://github.com/ReactiveX/rxdart) [![Pub](https://img.shields.io/pub/v/rxdart?style=flat-square)](https://pub.dev/packages/rxdart)                                                                                                          | **Official maintainer** - ReactiveX implementation for Dart Streams. [My commits](https://github.com/ReactiveX/rxdart/commits?author=hoc081098) |
 | 2  | [**rx_shared_preferences**](https://github.com/hoc081098/rx_shared_preferences) [![Pub](https://img.shields.io/pub/v/rx_shared_preferences?style=flat-square)](https://pub.dev/packages/rx_shared_preferences)                                                 | Reactive shared preferences for Flutter.                             |
 | 3  | [**rx_redux**](https://github.com/hoc081098/rx_redux) [![Pub](https://img.shields.io/pub/v/rx_redux?style=flat-square)](https://pub.dev/packages/rx_redux)                                                                                                     | Redux implementation based on Dart Stream with RxDart.               |
 | 4  | [**disposebag**](https://github.com/hoc081098/disposebag) [![Pub](https://img.shields.io/pub/v/disposebag?style=flat-square)](https://pub.dev/packages/disposebag)                                                                                             | Cancel StreamSubscriptions and close Sinks easily.                   |
@@ -118,6 +118,15 @@
 
 <details>
 <summary><b>📈 More Stats</b></summary>
+
+<br>
+
+<p align="center">
+  <a href="https://profile-summary-for-github.com/user/hoc081098">
+    <img src="https://img.shields.io/badge/📊_Profile_Summary-View_Full_Stats-1a1b27?style=for-the-badge" alt="Profile Summary"/>
+  </a>
+</p>
+
 
 <br>
 
