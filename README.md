@@ -32,14 +32,14 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/swift-F54A2A.svg?&style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/c%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <a href="https://github.com/Kotlin-Android-Open-Source"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://github.com/Kotlin-Android-Open-Source"><img src="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+  <a href="https://github.com/hoc081098/PhDownloader"><img src="https://img.shields.io/badge/swift-F54A2A.svg?&style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></a>
+  <a href="https://github.com/hoc081098/search-book-MVVM-MVI-RxSwift"><img src="https://img.shields.io/badge/iOS-000000.svg?&style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a>
+  <a href="https://github.com/hoc081098/rx_shared_preferences"><img src="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://pub.dev/packages/disposebag"><img src="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://github.com/hoc081098/netauth-ddd-cqrs-clean"><img src="https://img.shields.io/badge/c%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+  <a href="https://github.com/hoc081098/Dotnet-Playground"><img src="https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
 </p>
 
 <p align="center">
@@ -141,8 +141,14 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoc081098&theme=github-compact" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoc081098&theme=tokyo-night" alt="Activity Graph"/>
   </a>
+</p>
+
+<p align="center">
+ <a href="https://commits.top/vietnam.html">
+    <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035" alt="Commits"/>
+ </a>
 </p>
 
 <p align="center">
