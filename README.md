@@ -53,30 +53,30 @@
 <details>
 <summary><b>🟣 Kotlin Multiplatform</b></summary>
 
-| Library | Description |
-|---------|-------------|
-| [**FlowExt**](https://github.com/hoc081098/FlowExt) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/FlowExt?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/FlowExt) | Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library. |
-| [**kmp-viewmodel**](https://github.com/hoc081098/kmp-viewmodel) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/kmp-viewmodel?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel) | 🔆 Kotlin Multiplatform ViewModel - A KMP library that provides shared MVVM for UI applications. |
-| [**solivagant**](https://github.com/hoc081098/solivagant) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/solivagant-navigation?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/solivagant-navigation) | 🔆 Compose Multiplatform Navigation - Pragmatic, type safety navigation. Based on Freeletics Khonshu. |
-| [**kotlin-channel-event-bus**](https://github.com/hoc081098/kotlin-channel-event-bus) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/channel-event-bus?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/channel-event-bus) | A KMP event bus using Kotlinx Coroutines Channels. Multi-keys, multi-producers, single-consumer. |
+| Library                                                                                                                                                                                                                                                                           | Description                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [**FlowExt**](https://github.com/hoc081098/FlowExt) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/FlowExt?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/FlowExt)                                                       | Kotlinx Coroutines Flow Extensions. Extensions to the Kotlin Flow library.                            |
+| [**kmp-viewmodel**](https://github.com/hoc081098/kmp-viewmodel) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/kmp-viewmodel?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/kmp-viewmodel)                               | 🔆 Kotlin Multiplatform ViewModel - A KMP library that provides shared MVVM for UI applications.      |
+| [**solivagant**](https://github.com/hoc081098/solivagant) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/solivagant-navigation?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/solivagant-navigation)                     | 🔆 Compose Multiplatform Navigation - Pragmatic, type safety navigation. Based on Freeletics Khonshu. |
+| [**kotlin-channel-event-bus**](https://github.com/hoc081098/kotlin-channel-event-bus) [![Maven Central](https://img.shields.io/maven-central/v/io.github.hoc081098/channel-event-bus?style=flat-square)](https://search.maven.org/artifact/io.github.hoc081098/channel-event-bus) | A KMP event bus using Kotlinx Coroutines Channels. Multi-keys, multi-producers, single-consumer.      |
 
 </details>
 
 <details>
 <summary><b>🤖 Android</b></summary>
 
-| Library | Description |
-|---------|-------------|
+| Library                                                                                                                                                                                                                              | Description                                                                              |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | [**ViewBindingDelegate**](https://github.com/hoc081098/ViewBindingDelegate) [![JitPack](https://img.shields.io/jitpack/v/github/hoc081098/ViewBindingDelegate?style=flat-square)](https://jitpack.io/#hoc081098/ViewBindingDelegate) | Simple one-liner ViewBinding in Fragments and Activities with Kotlin Property Delegates. |
-| [**Khonshu**](https://github.com/freeletics/khonshu) | Contributed to Freeletics Khonshu navigation library. |
+| [**Khonshu**](https://github.com/freeletics/khonshu)                                                                                                                                                                                 | Contributed to Freeletics Khonshu navigation library.                                    |
 
 </details>
 
 <details>
 <summary><b>🍎 iOS/Swift</b></summary>
 
-| Library | Description |
-|---------|-------------|
+| Library                                                                                                                                                                                  | Description                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [**PhDownloader**](https://github.com/hoc081098/PhDownloader) [![CocoaPods](https://img.shields.io/cocoapods/v/PhDownloader?style=flat-square)](https://cocoapods.org/pods/PhDownloader) | Simple, reactive and functional downloader for iOS Swift with RxSwift & RxAlamofire. |
 
 </details>
@@ -84,25 +84,25 @@
 <details>
 <summary><b>🎯 Dart/Flutter</b></summary>
 
-| # | Library | Description |
-|---|---------|-------------|
-| 🏆 | [**RxDart**](https://github.com/ReactiveX/rxdart) [![Pub](https://img.shields.io/pub/v/rxdart?style=flat-square)](https://pub.dev/packages/rxdart) | **Official maintainer** - ReactiveX implementation for Dart Streams. |
-| 1 | [**rx_shared_preferences**](https://github.com/hoc081098/rx_shared_preferences) [![Pub](https://img.shields.io/pub/v/rx_shared_preferences?style=flat-square)](https://pub.dev/packages/rx_shared_preferences) | Reactive shared preferences for Flutter. |
-| 2 | [**rx_redux**](https://github.com/hoc081098/rx_redux) [![Pub](https://img.shields.io/pub/v/rx_redux?style=flat-square)](https://pub.dev/packages/rx_redux) | Redux implementation based on Dart Stream with RxDart. |
-| 3 | [**disposebag**](https://github.com/hoc081098/disposebag) [![Pub](https://img.shields.io/pub/v/disposebag?style=flat-square)](https://pub.dev/packages/disposebag) | Cancel StreamSubscriptions and close Sinks easily. |
-| 4 | [**flutter_disposebag**](https://github.com/Flutter-Dart-Open-Source/flutter_disposebag) [![Pub](https://img.shields.io/pub/v/flutter_disposebag?style=flat-square)](https://pub.dev/packages/flutter_disposebag) | Auto-dispose subscriptions when disposing State. |
-| 5 | [**sqlbrite**](https://github.com/hoc081098/sqlbrite) [![Pub](https://img.shields.io/pub/v/sqlbrite?style=flat-square)](https://pub.dev/packages/sqlbrite) | Reactive stream wrapper around sqflite. |
-| 6 | [**stream_loader**](https://github.com/hoc081098/stream_loader) [![Pub](https://img.shields.io/pub/v/stream_loader?style=flat-square)](https://pub.dev/packages/stream_loader) | Loading content asynchronously with Dart stream. |
-| 7 | [**rxdart_ext**](https://github.com/hoc081098/rxdart_ext) [![Pub](https://img.shields.io/pub/v/rxdart_ext?style=flat-square)](https://pub.dev/packages/rxdart_ext) | Extension methods and classes built on top of RxDart. |
-| 8 | [**rx_storage**](https://github.com/Flutter-Dart-Open-Source/rx_storage) [![Pub](https://img.shields.io/pub/v/rx_storage?style=flat-square)](https://pub.dev/packages/rx_storage) | Reactive storage for Dart/Flutter. |
-| 9 | [**listenable_stream**](https://github.com/Flutter-Dart-Open-Source/listenable_stream) [![Pub](https://img.shields.io/pub/v/listenable_stream?style=flat-square)](https://pub.dev/packages/listenable_stream) | Convert Listenable/ValueListenable to Stream. |
-| 10 | [**distinct_value_connectable_stream**](https://github.com/hoc081098/distinct_value_connectable_stream) [![Pub](https://img.shields.io/pub/v/distinct_value_connectable_stream?style=flat-square)](https://pub.dev/packages/distinct_value_connectable_stream) | Distinct value connectable stream for BLoC pattern. |
-| 11 | [**did_change_dependencies**](https://github.com/hoc081098/did_change_dependencies) [![Pub](https://img.shields.io/pub/v/did_change_dependencies?style=flat-square)](https://pub.dev/packages/did_change_dependencies) | Stream for didChangeDependencies lifecycle. |
-| 12 | [**dart_either**](https://github.com/hoc081098/dart_either) [![Pub](https://img.shields.io/pub/v/dart_either?style=flat-square)](https://pub.dev/packages/dart_either) | Either monad for Dart with monad comprehensions. |
-| 13 | [**flutter_bloc_pattern**](https://github.com/hoc081098/flutter_bloc_pattern) [![Pub](https://img.shields.io/pub/v/flutter_bloc_pattern?style=flat-square)](https://pub.dev/packages/flutter_bloc_pattern) | BLoC pattern base class and rxdart builder. |
-| 14 | [**flutter_provider**](https://github.com/hoc081098/flutter_provider) [![Pub](https://img.shields.io/pub/v/flutter_provider?style=flat-square)](https://pub.dev/packages/flutter_provider) | Generic provider using InheritedWidget. |
-| 15 | [**cancellation_token_hoc081098**](https://github.com/hoc081098/cancellation_token_hoc081098) [![Pub](https://img.shields.io/pub/v/cancellation_token_hoc081098?style=flat-square)](https://pub.dev/packages/cancellation_token_hoc081098) | Cancellation Token inspired by C#. |
-| 16 | [**http_client_hoc081098**](https://github.com/hoc081098/http_client_hoc081098) [![Pub](https://img.shields.io/pub/v/http_client_hoc081098?style=flat-square)](https://pub.dev/packages/http_client_hoc081098) | Simple and powerful HTTP client. |
+| #  | Library                                                                                                                                                                                                                                                        | Description                                                          |
+|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 1  | 🏆 [**RxDart**](https://github.com/ReactiveX/rxdart) [![Pub](https://img.shields.io/pub/v/rxdart?style=flat-square)](https://pub.dev/packages/rxdart)                                                                                                          | **Official maintainer** - ReactiveX implementation for Dart Streams. |
+| 2  | [**rx_shared_preferences**](https://github.com/hoc081098/rx_shared_preferences) [![Pub](https://img.shields.io/pub/v/rx_shared_preferences?style=flat-square)](https://pub.dev/packages/rx_shared_preferences)                                                 | Reactive shared preferences for Flutter.                             |
+| 3  | [**rx_redux**](https://github.com/hoc081098/rx_redux) [![Pub](https://img.shields.io/pub/v/rx_redux?style=flat-square)](https://pub.dev/packages/rx_redux)                                                                                                     | Redux implementation based on Dart Stream with RxDart.               |
+| 4  | [**disposebag**](https://github.com/hoc081098/disposebag) [![Pub](https://img.shields.io/pub/v/disposebag?style=flat-square)](https://pub.dev/packages/disposebag)                                                                                             | Cancel StreamSubscriptions and close Sinks easily.                   |
+| 5  | [**flutter_disposebag**](https://github.com/Flutter-Dart-Open-Source/flutter_disposebag) [![Pub](https://img.shields.io/pub/v/flutter_disposebag?style=flat-square)](https://pub.dev/packages/flutter_disposebag)                                              | Auto-dispose subscriptions when disposing State.                     |
+| 6  | [**sqlbrite**](https://github.com/hoc081098/sqlbrite) [![Pub](https://img.shields.io/pub/v/sqlbrite?style=flat-square)](https://pub.dev/packages/sqlbrite)                                                                                                     | Reactive stream wrapper around sqflite.                              |
+| 7  | [**stream_loader**](https://github.com/hoc081098/stream_loader) [![Pub](https://img.shields.io/pub/v/stream_loader?style=flat-square)](https://pub.dev/packages/stream_loader)                                                                                 | Loading content asynchronously with Dart stream.                     |
+| 8  | [**rxdart_ext**](https://github.com/hoc081098/rxdart_ext) [![Pub](https://img.shields.io/pub/v/rxdart_ext?style=flat-square)](https://pub.dev/packages/rxdart_ext)                                                                                             | Extension methods and classes built on top of RxDart.                |
+| 9  | [**rx_storage**](https://github.com/Flutter-Dart-Open-Source/rx_storage) [![Pub](https://img.shields.io/pub/v/rx_storage?style=flat-square)](https://pub.dev/packages/rx_storage)                                                                              | Reactive storage for Dart/Flutter.                                   |
+| 10 | [**listenable_stream**](https://github.com/Flutter-Dart-Open-Source/listenable_stream) [![Pub](https://img.shields.io/pub/v/listenable_stream?style=flat-square)](https://pub.dev/packages/listenable_stream)                                                  | Convert Listenable/ValueListenable to Stream.                        |
+| 11 | [**distinct_value_connectable_stream**](https://github.com/hoc081098/distinct_value_connectable_stream) [![Pub](https://img.shields.io/pub/v/distinct_value_connectable_stream?style=flat-square)](https://pub.dev/packages/distinct_value_connectable_stream) | Distinct value connectable stream for BLoC pattern.                  |
+| 12 | [**did_change_dependencies**](https://github.com/hoc081098/did_change_dependencies) [![Pub](https://img.shields.io/pub/v/did_change_dependencies?style=flat-square)](https://pub.dev/packages/did_change_dependencies)                                         | Stream for didChangeDependencies lifecycle.                          |
+| 13 | [**dart_either**](https://github.com/hoc081098/dart_either) [![Pub](https://img.shields.io/pub/v/dart_either?style=flat-square)](https://pub.dev/packages/dart_either)                                                                                         | Either monad for Dart with monad comprehensions.                     |
+| 14 | [**flutter_bloc_pattern**](https://github.com/hoc081098/flutter_bloc_pattern) [![Pub](https://img.shields.io/pub/v/flutter_bloc_pattern?style=flat-square)](https://pub.dev/packages/flutter_bloc_pattern)                                                     | BLoC pattern base class and rxdart builder.                          |
+| 15 | [**flutter_provider**](https://github.com/hoc081098/flutter_provider) [![Pub](https://img.shields.io/pub/v/flutter_provider?style=flat-square)](https://pub.dev/packages/flutter_provider)                                                                     | Generic provider using InheritedWidget.                              |
+| 16 | [**cancellation_token_hoc081098**](https://github.com/hoc081098/cancellation_token_hoc081098) [![Pub](https://img.shields.io/pub/v/cancellation_token_hoc081098?style=flat-square)](https://pub.dev/packages/cancellation_token_hoc081098)                     | Cancellation Token inspired by C#.                                   |
+| 17 | [**http_client_hoc081098**](https://github.com/hoc081098/http_client_hoc081098) [![Pub](https://img.shields.io/pub/v/http_client_hoc081098?style=flat-square)](https://pub.dev/packages/http_client_hoc081098)                                                 | Simple and powerful HTTP client.                                     |
 
 </details>
 
@@ -162,11 +162,11 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ### 📝 Notes / Blog Posts
 
-| # | Title | Description |
-|---|-------|-------------|
+| # | Title                                                                                                         | Description                                                                                    |
+|---|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | 1 | [**Looking at `Dp` class in Jetpack Compose**](notes/jetpack_compose_dp_class/jetpack_compose_dp_class_en.md) | Why do @Composable functions use `Dp.Unspecified` as default? The optimization under the hood. |
-| 2 | [**Bàn về Subject trong Rx**](notes/rx_subject_sync/rx_subject_sync_note_vi.md) | Serially rule in RxSwift, RxJava, RxKotlin and more. |
-| 3 | [**Grouping trong Kotlin**](notes/grouping_in_kotlin_vi_VN.md) | `groupingBy`, `groupBy`, `reduce`, lazy-evaluation in Kotlin. |
+| 2 | [**Bàn về Subject trong Rx**](notes/rx_subject_sync/rx_subject_sync_note_vi.md)                               | Serially rule in RxSwift, RxJava, RxKotlin and more.                                           |
+| 3 | [**Grouping trong Kotlin**](notes/grouping_in_kotlin_vi_VN.md)                                                | `groupingBy`, `groupBy`, `reduce`, lazy-evaluation in Kotlin.                                  |
 
 ---
 
