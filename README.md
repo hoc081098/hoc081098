@@ -147,13 +147,13 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 <p align="center">
  <a href="https://commits.top/vietnam.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035" alt="Commits"/>
+    <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam&bg_color=1a1b27&text_color=70a5fd&border_color=38bdae" alt="Commits"/>
  </a>
 </p>
 
 <p align="center">
   <a href="https://commits.top/vietnam_private.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=293035&text_color=fafafa&border_color=293035" alt="Commits"/>
+    <img src="http://iot.fbiego.com/api/v1/commits?user=hoc081098&country=VietNam_private&bg_color=1a1b27&text_color=70a5fd&border_color=38bdae" alt="Commits"/>
   </a>
 </p>
 
