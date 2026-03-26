@@ -29,11 +29,11 @@
 - 🌱 **Currently learning** `C#`, `.NET` and `ASP.NET Core`: [netauth-ddd-cqrs-clean](https://github.com/hoc081098/netauth-ddd-cqrs-clean), [Dotnet-Playground](https://github.com/hoc081098/Dotnet-Playground)
 - 📫 **Contact** [`Rx Mobile Team`](https://rx-mobile-team.github.io/profile/) for freelance jobs 🤟
 
-### ⭐ Featured Projects
+#### ⭐ Featured Projects
 
 - [**PostgresPatroniHaproxyEfcoreDemo**](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo) — Production-minded PostgreSQL HA demo with Patroni, HAProxy, etcd, and EF Core (automatic failover, read/write split, and read-your-writes edge case).
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://github.com/Kotlin-Android-Open-Source"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
