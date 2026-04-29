@@ -30,7 +30,7 @@ jobs:
       - name: Pull
         run: git pull origin master
 
-      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: "[Grid snake] Update action output"
           file_pattern: 'dist/*.svg'
