@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1DXCgBNq8bQTqRDhwSTfr4wAgGDNuiKw4/view?usp=sharing"><img src="https://img.shields.io/badge/📄_My_CV-FF6B6B?style=for-the-badge" alt="My CV"/></a>
+  <a href="https://portfolio.hoc081098.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://github.com/ReactiveX/rxdart"><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="ReactiveX"/></a>
   <a href="https://www.buymeacoffee.com/hoc081098"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 </p>
@@ -180,6 +180,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ---
 
 ### 📝 Notes / Blog Posts
+
+> 🚀 **Notes and blog posts have moved to [portfolio.hoc081098.dev/articles](https://portfolio.hoc081098.dev/articles)** — all future articles will be published there!
 
 | # | Title                                                                                                                                                 | Description                                                                                    |
 |---|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
