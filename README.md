@@ -42,7 +42,14 @@ I'm building .NET backend and data systems with `DDD`, `CQRS`, `PostgreSQL`, and
 
 #### ⭐ Featured Projects
 
-- [**PostgresPatroniHaproxyEfcoreDemo**](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo) — Production-minded PostgreSQL HA demo with Patroni, HAProxy, etcd, and EF Core (automatic failover, read/write split, and read-your-writes edge case).
+| Project & evidence                                                                                                                                                                                                                                                                                    | What it proves                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [**FlowExt**](https://github.com/hoc081098/FlowExt)<br>[Docs](https://hoc081098.github.io/FlowExt/docs/1.x/) · [Technical article](https://portfolio.hoc081098.dev/articles/kotlin-flow-race-amb-operator)                                                                                            | Kotlin Multiplatform Flow semantics, structured concurrency, cancellation, cross-platform testing, and maintained library design.          |
+| [**MVI-Coroutines-Flow**](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow)<br>[Tests](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow/tree/master/feature-main/src/test) · [Releases](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow/releases) | Multi-module Android MVI, Clean Architecture, Coroutines Flow, extensive testing, releases, and long-term adoption.                        |
+| [**GitHub Search KMM**](https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI)<br>[Architecture](https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI#overall-architecture) · [CI](https://github.com/hoc081098/GithubSearchKMM-Compose-SwiftUI/actions)                               | End-to-end KMP architecture sharing data, domain, presentation, and ViewModel layers while retaining Compose and SwiftUI interfaces.       |
+| **Selected upstream contributions**<br>[FlutterFire](https://github.com/firebase/flutterfire/pull/87) · [Koin](https://github.com/InsertKoinIO/koin/pull/1801) · [Khonshu](https://github.com/freeletics/khonshu/pull/716) · [Google Ground](https://github.com/google/ground-android/pull/2078)      | Narrow fixes involving traversal, state restoration, error paths, and locking, reviewed and merged into established projects.              |
+| [**PostgreSQL HA lab**](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo)<br>[Demo scenarios](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo#demo-scenarios) · [Technical notes](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo/tree/master/docs)          | Failure-aware PostgreSQL topology with Patroni election, HAProxy routing, EF Core read/write splitting, retry, and consistency trade-offs. |
+| [**NetAuth**](https://github.com/hoc081098/netauth-ddd-cqrs-clean)<br>[Tests](https://github.com/hoc081098/netauth-ddd-cqrs-clean/tree/main/tests) · [CI](https://github.com/hoc081098/netauth-ddd-cqrs-clean/actions)                                                                                | Educational ASP.NET Core design using DDD, CQRS, authentication boundaries, a transactional outbox, and multiple test layers.              |
 
 #### 🛠️ Tech Stack
 
@@ -190,17 +197,9 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
-### 📝 Notes / Blog Posts
+### 📝 Technical Writing
 
-> 🚀 **Notes and blog posts have moved to [portfolio.hoc081098.dev/articles](https://portfolio.hoc081098.dev/articles)** — all future articles will be published there!
-
-| # | Title                                                                                                                                                 | Description                                                                                    |
-|---|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 1 | [**Looking at `Dp` class in Jetpack Compose**](notes/jetpack_compose_dp_class/jetpack_compose_dp_class_en.md)                                         | Why do @Composable functions use `Dp.Unspecified` as default? The optimization under the hood. |
-| 2 | [**Bàn về Subject trong Rx**](notes/rx_subject_sync/rx_subject_sync_note_vi.md)                                                                       | Serially rule in RxSwift, RxJava, RxKotlin and more.                                           |
-| 3 | [**Grouping trong Kotlin**](notes/grouping_in_kotlin_vi_VN.md)                                                                                        | `groupingBy`, `groupBy`, `reduce`, lazy-evaluation in Kotlin.                                  |
-| 4 | [**Rate limiting strategies**](notes/rate_limiting_strategies/rate_limiting_strategies.md)                                                            | Rate limiting for Nginx, API Gateway (YARP), and service layers in ASP.NET Core.               |
-| 5 | [**Union Types in C# (en)**](notes/csharp_unions/csharp_union_type_en.md) / [**Union Types in C# (vi)**](notes/csharp_unions/csharp_union_type_vi.md) | Union types in C# 15 / .NET 11 — syntax, pattern matching, and use cases.                      |
+My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development.
 
 ---
 
