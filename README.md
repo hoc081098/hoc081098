@@ -2,7 +2,8 @@
 <h1 align="center">Hi there, I'm Petrus Nguyễn Thái Học 👋</h1>
 
 <p align="center">
-  <em>A self-taught Senior Engineer (Android, iOS, Flutter, NestJs, ...) with 7+ years of experience (since 2018 Summer)</em>
+  <strong>Senior Mobile & Kotlin Engineer — .NET Backend</strong><br>
+  <em>Reactive systems · Kotlin Multiplatform · Mobile architecture · Performance</em>
 </p>
 
 <p align="center">
@@ -24,10 +25,20 @@
 
 ### 🚀 About Me
 
-- 💪 **Strong knowledge of** `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`
-- 🏆 [**Official RxDart maintainer**](https://github.com/ReactiveX/rxdart) 🤟
-- 🌱 **Currently learning** `C#`, `.NET` and `ASP.NET Core`: [netauth-ddd-cqrs-clean](https://github.com/hoc081098/netauth-ddd-cqrs-clean), [Dotnet-Playground](https://github.com/hoc081098/Dotnet-Playground)
-- 📫 **Contact** [`Rx Mobile Team`](https://rx-mobile-team.github.io/profile/) for freelance jobs 🤟
+#### 👨‍💻 Engineering Profile
+
+I build reliable, high-performance mobile and backend systems across `Kotlin/Android`, `Kotlin Multiplatform`, `Compose Multiplatform`, `Flutter/Dart`, `iOS/Swift`, `NestJS`, and `ASP.NET Core`. I'm a senior engineer with 7+ years of experience, building and shipping software since summer 2018. Beyond formal education, I am largely self-taught, with my engineering growth shaped by hands-on product work, open-source maintenance, and a long-term focus on software fundamentals.
+
+**Strong knowledge of:** `Clean Architecture`, `MVVM`, `MVI`, `Reactive Programming` (RxJava/RxKotlin, RxSwift, rxdart, RxJs, Kotlinx Coroutines Flow), `Kotlin/Android`, `Dart/Flutter`, `iOS/Swift`.
+
+#### 🏆 Open-Source Work
+
+- 🏆 [**RxDart maintainer & repository-wide CODEOWNER**](https://github.com/ReactiveX/rxdart/blob/master/.github/CODEOWNERS), contributing to reactive semantics, stream lifecycle, tests, and releases.
+- 🧩 **Author & maintainer of** [FlowExt](https://github.com/hoc081098/FlowExt) and [MVI-Coroutines-Flow](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow), focused on reactive programming, concurrency, software architecture, testing, and performance.
+
+#### 🧱 Current Focus
+
+I'm building .NET backend and data systems with `DDD`, `CQRS`, `PostgreSQL`, and high-availability patterns — [NetAuth](https://github.com/hoc081098/netauth-ddd-cqrs-clean) and the [PostgreSQL HA lab](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo).
 
 #### ⭐ Featured Projects
 
