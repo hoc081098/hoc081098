@@ -51,6 +51,10 @@ I'm building .NET backend and data systems with `DDD`, `CQRS`, `PostgreSQL`, and
 | [**PostgreSQL HA lab**](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo)<br>[Demo scenarios](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo#demo-scenarios) · [Technical notes](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo/tree/master/docs)          | Failure-aware PostgreSQL topology with Patroni election, HAProxy routing, EF Core read/write splitting, retry, and consistency trade-offs. |
 | [**NetAuth**](https://github.com/hoc081098/netauth-ddd-cqrs-clean)<br>[Tests](https://github.com/hoc081098/netauth-ddd-cqrs-clean/tree/main/tests) · [CI](https://github.com/hoc081098/netauth-ddd-cqrs-clean/actions)                                                                                | Educational ASP.NET Core design using DDD, CQRS, authentication boundaries, a transactional outbox, and multiple test layers.              |
 
+#### 📝 Technical Writing
+
+My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development.
+
 #### 🛠️ Tech Stack
 
 <p align="center">
@@ -194,12 +198,6 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 </details>
   
-
----
-
-### 📝 Technical Writing
-
-My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development.
 
 ---
 
