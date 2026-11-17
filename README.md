@@ -53,7 +53,7 @@ I'm building .NET backend and data systems with `DDD`, `CQRS`, `PostgreSQL`, and
 
 #### 📝 Technical Writing
 
-My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development.
+My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development. Read my [**From Domain to Production**](https://portfolio.hoc081098.dev/series/from-domain-to-production) series.
 
 #### 🛠️ Tech Stack
 
