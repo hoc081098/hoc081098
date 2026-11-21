@@ -21,6 +21,16 @@
   <a href="https://www.buymeacoffee.com/hoc081098"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
 </p>
 
+### 📝 Technical Writing
+
+I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development.
+
+<p align="center">
+  👉 <a href="https://portfolio.hoc081098.dev/articles"><strong>Browse all technical articles</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio.hoc081098.dev/series/from-domain-to-production"><strong>Read From Domain to Production</strong></a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -50,10 +60,6 @@ I'm building .NET backend and data systems with `DDD`, `CQRS`, `PostgreSQL`, and
 | **Selected upstream contributions**<br>[FlutterFire](https://github.com/firebase/flutterfire/pull/87) · [Koin](https://github.com/InsertKoinIO/koin/pull/1801) · [Khonshu](https://github.com/freeletics/khonshu/pull/716) · [Google Ground](https://github.com/google/ground-android/pull/2078)      | Narrow fixes involving traversal, state restoration, error paths, and locking, reviewed and merged into established projects.              |
 | [**PostgreSQL HA lab**](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo)<br>[Demo scenarios](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo#demo-scenarios) · [Technical notes](https://github.com/hoc081098/PostgresPatroniHaproxyEfcoreDemo/tree/master/docs)          | Failure-aware PostgreSQL topology with Patroni election, HAProxy routing, EF Core read/write splitting, retry, and consistency trade-offs. |
 | [**NetAuth**](https://github.com/hoc081098/netauth-ddd-cqrs-clean)<br>[Tests](https://github.com/hoc081098/netauth-ddd-cqrs-clean/tree/main/tests) · [CI](https://github.com/hoc081098/netauth-ddd-cqrs-clean/actions)                                                                                | Educational ASP.NET Core design using DDD, CQRS, authentication boundaries, a transactional outbox, and multiple test layers.              |
-
-#### 📝 Technical Writing
-
-My technical writing lives on [**portfolio.hoc081098.dev/articles**](https://portfolio.hoc081098.dev/articles), where I write about Kotlin and mobile engineering, reactive systems, software architecture, performance, and .NET backend development. Read my [**From Domain to Production**](https://portfolio.hoc081098.dev/series/from-domain-to-production) series.
 
 #### 🛠️ Tech Stack
 
